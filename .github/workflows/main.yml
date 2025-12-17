@@ -58,10 +58,15 @@ jobs:
 
           git add bbxx.txt bbxx.m3u bbxx_lite.txt bbxx_lite.m3u others_output.txt tiyu.html "${zip_filename}"
           git commit -m ":tada: AutoUpdate $(date +'%Y%m%d') | archive ${current_datetime}"
+
+    - name: Rebase with remote
+      run: |
+        git pull --rebase origin main || true
           
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
     
         
