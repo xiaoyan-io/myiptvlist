@@ -1,12 +1,13 @@
 更新时间,#genre#
-20251217 07:47:42,url
+20251218 00:52:14,url
 
 
 freetv,#genre#
-CCTV4,https://stream1.freetv.fun/cctv-4-asia-1.m3u8$[HD]cctv-4_asia
-cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
-cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
-cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
+[HD]cctv-4 asia,https://stream1.freetv.fun/cctv-4-asia-1.m3u8$[HD]cctv-4_asia
+[HD]cctv13,https://stream1.freetv.fun/cctv13-29.m3u8$[HD]cctv13
+[HD]cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
+[HD]cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
+[HD]cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
 tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv$[HD]tvbs新闻
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-31.ctv$[HD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-85.ctv$[HD]东方卫视
@@ -46,7 +47,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv$[HD]tvbs新闻
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv$[HD]凤凰资讯
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv$[HD]凤凰香港
-刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv$[HD]刘德华
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-75.ctv$[HD]北京卫视
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8$[HD]十堰经济
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8$[HD]十堰经济旅游
@@ -119,10 +119,8 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv$[HD]tvbs新闻
 民视,rtmp://f13h.mine.nu/sat/tv051$[HD]民视
 民视,rtmp://f13h.mine.nu:1935/sat/tv051$[HD]民视
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-106.ctv$[HD]江苏卫视
-江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv$[HD]江苏卫视
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv$[HD]江西卫视
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-17.m3u8$[HD]河北农民
-洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.ctv$[HD]洪金宝
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-30.m3u8$[HD]浙江卫视
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8$[HD]浙江国际
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-10.m3u8$[HD]浙江新闻
@@ -135,10 +133,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv$[HD]tvbs新闻
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8$[HD]湖州公共
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8$[HD]湖州公共
 湖州娱乐,https://stream1.freetv.fun/hu-zhou-yu-le-1.m3u8$[HD]湖州娱乐
-电影,https://stream1.freetv.fun/dian-ying-106.m3u8$[HD]电影
-电影,https://stream1.freetv.fun/dian-ying-15.ctv$[HD]电影
 电影,https://stream1.freetv.fun/dian-ying-44.ctv$[HD]电影
-电影,https://stream1.freetv.fun/dian-ying-57.ctv$[HD]电影
 电影,https://stream1.freetv.fun/dian-ying-69.m3u8$[HD]电影
 电影,https://stream1.freetv.fun/dian-ying-79.m3u8$[HD]电影
 緯來日本,rtmp://f13h.mine.nu/sat/tv771$[HD]緯來日本
