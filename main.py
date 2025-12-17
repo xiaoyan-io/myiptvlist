@@ -48,6 +48,9 @@ blacklist_manual=read_blacklist_from_txt('assets/blacklist1/blacklist_manual.txt
 # combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
 
+# 请求超时（秒）
+REQUEST_TIMEOUT = 8
+
 # 定义多个对象用于存储不同内容的行文本
 sh_lines = []
 ys_lines = [] #CCTV
@@ -112,6 +115,7 @@ Olympics_2024_Paris_lines = [] #Paris_2024_Olympics  Olympics_2024_Paris ADD 202
 
 other_lines = []
 other_lines_url = [] # 为降低other文件大小，剔除重复url添加
+dead_sources = [] # 记录处理失败的源
 
 def process_name_string(input_str):
     parts = input_str.split(',')
@@ -213,11 +217,27 @@ def clean_url(url):
         return url[:last_dollar_index]
     return url
 
+def contains_ipv6(text: str) -> bool:
+    """Detect IPv6 markers in either names or URLs."""
+    if not text:
+        return False
+    lower_text = text.lower()
+    if "ipv6" in lower_text:
+        return True
+    return "[" in text and "]" in text and ":" in text
+
+def is_ipv6_source(channel_name: str, channel_address: str) -> bool:
+    return contains_ipv6(channel_name) or contains_ipv6(channel_address)
+
+def filter_out_ipv6_entries(lines):
+    return [line for line in lines if not contains_ipv6(line)]
+
 # 添加channel_name前剔除部分特定字符
 removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","AKtv","「IPV4」","「IPV6」",
                 "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","标清","斯特",
                 "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕","闽特","高特","频高","频标","汝阳",
                 "4Gtv","频效","国标","粤标","频推","频流","粤高","频限"]
+channel_exclude_keywords = read_txt_to_array('assets/channel_exclude.txt')  # 频道关键词过滤列表
 def clean_channel_name(channel_name, removal_list):
     for item in removal_list:
         channel_name = channel_name.replace(item, "")
@@ -231,14 +251,25 @@ def clean_channel_name(channel_name, removal_list):
 
     return channel_name
 
+def is_channel_excluded(channel_name):
+    for keyword in channel_exclude_keywords:
+        if keyword and keyword in channel_name:
+            return True
+    return False
+
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
     if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
+        raw_channel_name = channel_name
         channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
         channel_name = traditional_to_simplified(channel_name)  #繁转简
+        if is_channel_excluded(channel_name):
+            return
 
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
+        if is_ipv6_source(raw_channel_name, channel_address):
+            return
         line=channel_name+","+channel_address #重新组织line
 
         if channel_address not in combined_blacklist: # 判断当前源是否在blacklist中
@@ -369,6 +400,9 @@ def get_random_user_agent():
 
 def process_url(url):
     try:
+        if contains_ipv6(url):
+            print(f"跳过IPv6源: {url}")
+            return
         other_lines.append("◆◆◆　"+url)  # 存入other_lines便于check 2024-08-02 10:41
         
         # 创建一个请求对象并添加自定义header
@@ -376,7 +410,7 @@ def process_url(url):
         req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
 
         # 打开URL并读取内容
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
             # 以二进制方式读取数据
             data = response.read()
             # 将二进制数据解码为字符串
@@ -414,6 +448,8 @@ def process_url(url):
 
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
+        ts = datetime.now(timezone.utc).isoformat()
+        dead_sources.append(f"{url} | {e} | {ts}")
 
 
 current_directory = os.getcwd()  #准备读取txt
@@ -671,6 +707,33 @@ def filter_lines(lines, exclude_keywords):
     :return: 过滤后的新列表
     """
     return [line for line in lines if not any(keyword in line for keyword in exclude_keywords)]
+
+def dedup_playlist(lines, max_per_name=1):
+    """
+    在每个分组内按频道名限频，保留前 max_per_name 个，保持原有顺序和分组结构。
+    :param lines: 包含 #genre# 分组行和频道行的列表
+    :param max_per_name: 同名频道在同一分组内保留的最大数量
+    """
+    result = []
+    counts = {}
+    current_group = None
+    for line in lines:
+        if "#genre#" in line:
+            current_group = line
+            counts[current_group] = {}
+            result.append(line)
+            continue
+        if not line.strip() or "," not in line:
+            result.append(line)
+            continue
+        name = line.split(',', 1)[0]
+        group_counts = counts.setdefault(current_group, {})
+        seen = group_counts.get(name, 0)
+        if seen >= max_per_name:
+            continue
+        group_counts[name] = seen + 1
+        result.append(line)
+    return result
 
 
 def generate_playlist_html(data_list, output_file='playlist.html'):
@@ -933,6 +996,11 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["❤️雪中悍刀行,#genre#"] + read_txt_to_array('专区/特供频道/♪雪中悍刀行.txt') + ['\n'] + \
              ["❤️以家人之名,#genre#"] + read_txt_to_array('专区/特供频道/♪以家人之名.txt')
 
+all_lines_simple = filter_out_ipv6_entries(all_lines_simple)
+all_lines = filter_out_ipv6_entries(all_lines)
+all_lines_simple = dedup_playlist(all_lines_simple, max_per_name=1)
+all_lines = dedup_playlist(all_lines, max_per_name=1)
+
 # # custom定制
 # custom_lines_zhang =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 #             ["港澳台,#genre#"] + sort_data(gat_dictionary,set(correct_name_data(corrections_name,gat_lines))) + ['\n'] 
@@ -958,6 +1026,8 @@ try:
     #         f.write(line + '\n')
     # print(f"合并后的文本已保存到文件: {output_file_simple}")
 
+    filtered_other_lines = filter_out_ipv6_entries(other_lines)
+
     with open(new_output_file_simple, 'w', encoding='utf-8') as f:
         for line in all_lines_simple:
             f.write(line + '\n')
@@ -976,9 +1046,15 @@ try:
 
     # 其他
     with open(others_file, 'w', encoding='utf-8') as f:
-        for line in other_lines:
+        for line in filtered_other_lines:
             f.write(line + '\n')
     print(f"Others已保存到文件: {others_file}")
+
+    if dead_sources:
+        with open("dead_sources.txt", 'w', encoding='utf-8') as f:
+            for line in dead_sources:
+                f.write(line + '\n')
+        print("dead_sources已保存到文件: dead_sources.txt")
 
     # 定制
     # with open(output_file_custom_zhang, 'w', encoding='utf-8') as f:

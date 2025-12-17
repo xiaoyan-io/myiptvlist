@@ -1,0 +1,32 @@
+name: Twice Daily Pipeline
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"  # UTC twice daily
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Run pipeline
+        run: python main.py
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-outputs
+          path: |
+            bbxx.txt
+            bbxx.m3u
+            bbxx_lite.txt
+            bbxx_lite.m3u
+            others_output.txt
+            tiyu.html
+            dead_sources.txt
+          if-no-files-found: warn

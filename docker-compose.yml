@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  iptv:
+    build: .
+    command: ["python3", "-m", "iptv", "run"]
+    volumes:
+      - ./dist:/app/dist

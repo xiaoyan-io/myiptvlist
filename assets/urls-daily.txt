@@ -4,11 +4,7 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
-https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
 http://mytv.3d.tc//i/?T=%E6%97%A0%E7%BA%BF%E7%94%B5%E8%A7%86
-http://38.165.20.168/js/%E7%9B%B4%E6%92%AD.txt
-https://chuxinya.top/f/XooOhO/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
-https://chuxinya.top/f/VPk3ig/Rig1Ie5B_%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
@@ -42,12 +38,10 @@ http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt
 https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 --http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://tzdr.com/iptv.txt
 --http://ww.weidonglong.com/dsj.txt
 --http://wx.thego.cn/hk.txt
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 --https://livetv.wqwqwq.sbs/tv.m3u
 --https://tvv.wqwqwq.sbs/iptv.m3u
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
@@ -88,7 +82,6 @@ http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 --https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
-https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 --https://m3u.ibert.me/txt/y_g.txt
 --https://m3u.ibert.me/txt/j_home.txt
@@ -119,7 +112,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/ass
 --https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
 --https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt
 --http://154.9.252.167:190/tvlive.txt
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 --https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
 --https://4gtv.mytvsuper.xyz/myiptv.m3u
 --https://raw.githubusercontent.com/zzj2678/IPTVzb1/refs/heads/main/iptv_list.txt

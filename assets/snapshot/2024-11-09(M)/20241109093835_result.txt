@@ -174,7 +174,6 @@ CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-32.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.m3u8
-CHC动作电影,https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-3.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.ctv
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -237,10 +236,8 @@ NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-11.ctv
 魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
-魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
 魅力足球,http://110.177.146.152:888/udp/239.1.1.75:8075$1920x1080
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.ctv
-魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$1920x1080
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv

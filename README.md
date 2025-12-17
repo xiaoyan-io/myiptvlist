@@ -34,3 +34,12 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
 
+## 快速使用
+- Docker（推荐）：`docker compose up --build`，生成文件会复制到宿主的 `./dist/`。
+- 本地：`pip install -r requirements.txt`，然后执行 `python3 -m iptv run` 或 `bash run.sh`（输出也会复制到 `dist/`）。
+- 可选检查（需 ffprobe，否则仅 HTTP 状态）：`bash test_sources.sh bbxx.txt`
+
+## 配置与输出
+- 源配置：`assets/urls-daily.txt`（每行一个 http/https 源，按顺序处理）。
+- 主要输出：`bbxx.txt / bbxx.m3u`（完整版）、`bbxx_lite.*`（瘦身版）、`others_output.txt`、`tiyu.html`、`dead_sources.txt`（失败源列表）。
+- 订阅示例：`https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.m3u`（可直接填入播放器或订阅工具）。

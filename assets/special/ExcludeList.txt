@@ -1810,7 +1810,6 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 免费订阅：请勿贩卖...,https://epg.iill.top/v/302.mp4
 维护时间：2025-1-15#佛系维护...,https://epg.iill.top/v/301.mp4
-维护内容：维护内容：维护 Gather「删除 •IPV6 源 / 增加 •IPV4 源 部分有效自测·建议挂节点 」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·暂不限制·若流量太大将改限时,https://epg.iill.top/v/301.mp4
 限制条件：请到 Github 了解详情「限制IP·UA」,https://epg.iill.top/v/302.mp4
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8

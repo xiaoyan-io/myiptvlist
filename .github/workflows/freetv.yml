@@ -16,10 +16,10 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
         
@@ -34,22 +34,17 @@ jobs:
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add assets/freetv/freetv_output.txt
-          git add assets/freetv/freetv_output_cctv.txt
-          git add assets/freetv/freetv_output_ws.txt
-          git add assets/freetv/freetv_output_other.txt
-          git commit -m ":tv:  (Freetv)AutoUpdate $(date -d "+8 hours" +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
-          # cp assets/freetv/freetv_output.txt history/freetv/"${current_datetime}_freetv_output.txt"
-          # git add history/freetv/"${current_datetime}_freetv_output.txt"
-          # git commit -m "(freetv)Archive file with timestamp"
+          zip_filename="history/freetv/${current_datetime}_freetv_output.zip"
+          zip "${zip_filename}" assets/freetv/freetv_output.txt
 
-          # 将归档文件打包zip文件
-          zip_filename="${current_datetime}_freetv_output.zip"
-          zip "history/freetv/${zip_filename}" assets/freetv/freetv_output.txt
-          git add "history/freetv/${zip_filename}"
-          git commit -m "(freetv) Archive file as ZIP with timestamp"
+          git add assets/freetv/freetv_output.txt \
+                 assets/freetv/freetv_output_cctv.txt \
+                 assets/freetv/freetv_output_ws.txt \
+                 assets/freetv/freetv_output_other.txt \
+                 "${zip_filename}"
+          git commit -m ":tv: (Freetv)AutoUpdate $(date -d \"+8 hours\" +'%Y%m%d') | archive ${current_datetime}"
           
           
     - name: Push changes
