@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251218 21:25:34,url
+20251219 07:50:01,url
 
 
 freetv_other,#genre#
@@ -7,7 +7,6 @@ freetv_other,#genre#
 [HD]cgtn,https://stream1.freetv.fun/cgtn-26.m3u8
 [HD]cgtn,https://stream1.freetv.fun/cgtn-34.m3u8
 [HD]cgtn,https://stream1.freetv.fun/cgtn-4.m3u8
-tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-2.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-1.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
@@ -83,7 +82,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-7.m3u8
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-8.m3u8
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.m3u8
-明珠,https://stream1.freetv.fun/ming-zhu-3.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-4.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-9.ctv
 智林體育,https://stream1.freetv.fun/zhi-lin-ti-yu-1.m3u8
@@ -106,6 +104,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-17.m3u8
+洪金宝,https://stream1.freetv.fun/hong-jin-bao-3.ctv
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-11.m3u8
