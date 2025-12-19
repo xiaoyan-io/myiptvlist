@@ -1,9 +1,8 @@
 更新时间,#genre#
-20251219 07:50:01,url
+20251220 07:49:39,url
 
 
 freetv_ws,#genre#
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-31.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-85.ctv
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-10.ctv
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-3.m3u8
@@ -11,9 +10,7 @@ freetv_ws,#genre#
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-75.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-70.ctv
-广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-26.ctv
-江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-106.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-30.m3u8
+辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-19.ctv
