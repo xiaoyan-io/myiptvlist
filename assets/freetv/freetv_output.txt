@@ -1,14 +1,15 @@
 更新时间,#genre#
-20251225 07:49:57,url
+20251226 07:50:25,url
 
 
 freetv,#genre#
 [HD]cctv-4 asia,https://stream1.freetv.fun/cctv-4-asia-1.m3u8$[HD]cctv-4_asia
-[HD]cctv2,https://stream1.freetv.fun/cctv2-44.m3u8$[HD]cctv2
+[HD]cctv2财经,https://stream1.freetv.fun/cctv2cai-jing-4.ctv$[HD]cctv2财经
 [HD]cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
 [HD]cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
 [HD]cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
 nba tv,https://stream1.freetv.fun/nba-tv-3.m3u8$[HD]nba_tv
+tvb星河,https://stream1.freetv.fun/tvbxing-he-5.ctv$[HD]tvb星河
 tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-85.ctv$[HD]东方卫视
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-1.m3u8$[HD]东莞新闻综合
@@ -35,12 +36,10 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-1.m3u8$[HD]兰溪新闻综合
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-4.m3u8$[HD]兰溪新闻综合
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8$[HD]内江综合
+内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-8.m3u8$[HD]内蒙古卫视
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8$[HD]凤凰中文
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv$[HD]凤凰中文
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv$[HD]凤凰中文
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv$[HD]凤凰资讯
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv$[HD]凤凰资讯
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv$[HD]凤凰香港
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv$[HD]刘德华
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-75.ctv$[HD]北京卫视
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8$[HD]十堰经济
@@ -60,7 +59,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8$[HD]山东卫视
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-5.m3u8$[HD]平湖新闻综合
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-27.m3u8$[HD]广东珠江
-广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv$[HD]广州影视
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-11.m3u8$[HD]广州新闻
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-21.m3u8$[HD]广州新闻
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-24.m3u8$[HD]广州新闻
@@ -70,14 +68,12 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8$[HD]广州竞赛
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-1.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-10.m3u8$[HD]广州综合
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-12.ctv$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-14.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-17.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-2.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-20.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-24.m3u8$[HD]广州综合
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-27.ctv$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-28.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-30.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-4.m3u8$[HD]广州综合
@@ -85,6 +81,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-7.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-8.m3u8$[HD]广州综合
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.m3u8$[HD]广州综合
+延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-4.m3u8$[HD]延边卫视
 明珠,https://stream1.freetv.fun/ming-zhu-4.ctv$[HD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-9.ctv$[HD]明珠
 智林體育,https://stream1.freetv.fun/zhi-lin-ti-yu-1.m3u8$[HD]智林體育
@@ -117,6 +114,8 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8$[HD]湖州公共
 湖州娱乐,https://stream1.freetv.fun/hu-zhou-yu-le-1.m3u8$[HD]湖州娱乐
 电影,https://stream1.freetv.fun/dian-ying-111.ctv$[HD]电影
+电影,https://stream1.freetv.fun/dian-ying-44.ctv$[HD]电影
+电影,https://stream1.freetv.fun/dian-ying-49.m3u8$[HD]电影
 电影,https://stream1.freetv.fun/dian-ying-69.m3u8$[HD]电影
 緯來日本,rtmp://f13h.mine.nu/sat/tv771$[HD]緯來日本
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$[HD]纬来体育
