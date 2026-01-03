@@ -1,5 +1,15 @@
 更新时间,#genre#
-20260103 07:49:51,url
+20260104 07:50:34,url
 
 
 freetv_ws,#genre#
+人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-1.m3u8
+人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-2.m3u8
+人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
+人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-4.m3u8
+人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi.m3u
+内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-2.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
+延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8
+延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-13.m3u8
