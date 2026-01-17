@@ -1,9 +1,11 @@
 更新时间,#genre#
-20260117 07:51:13,url
+20260118 07:50:25,url
 
 
 freetv_other,#genre#
 [HD]cctv-4 asia,https://t.freetv.fun/live/cctv-4-asia.m3u8
+[HD]cctv13,https://t.freetv.fun/live/cctv13-6.m3u8
+[HD]cctv13,https://t.freetv.fun/live/cctv13-7.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
@@ -11,7 +13,6 @@ freetv_other,#genre#
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
-东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
@@ -25,6 +26,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
+凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 十堰经济旅游,https://t.freetv.fun/live/shi-yan-jing-ji-lu-you.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-1.m3u8
@@ -84,7 +86,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
-电影,https://t.freetv.fun/live/dian-ying-10.m3u8
+电影,https://t.freetv.fun/live/dian-ying-1.php
 电影,https://t.freetv.fun/live/dian-ying.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -99,7 +101,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3-1.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8
 美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-3.m3u8
-美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying.php
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
