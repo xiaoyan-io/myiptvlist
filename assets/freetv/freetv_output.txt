@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260120 07:52:32,url
+20260121 07:53:31,url
 
 
 freetv,#genre#
@@ -7,8 +7,11 @@ freetv,#genre#
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8$[HD]cgtn
+[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php$[HD]chc动作电影
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8$[HD]chc动作电影
+[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.php$[HD]chc家庭影院
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8$[HD]chc家庭影院
+[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.php$[HD]chc影迷电影
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8$[HD]chc影迷电影
 tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8$[HD]tvb星河
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8$[HD]东森新闻
@@ -27,10 +30,12 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8$[HD]tvb星河
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8$[HD]兰溪新闻综合
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8$[HD]兰溪新闻综合
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8$[HD]内江综合
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.php$[HD]凤凰中文
 凤凰卫视,https://t.freetv.fun/live/feng-huang-wei-shi-1.m3u8$[HD]凤凰卫视
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8$[HD]凤凰资讯
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8$[HD]凤凰资讯
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8$[HD]凤凰香港
+刘德华,https://t.freetv.fun/live/liu-de-hua.flv$[HD]刘德华
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8$[HD]十堰经济
 十堰经济旅游,https://t.freetv.fun/live/shi-yan-jing-ji-lu-you.m3u8$[HD]十堰经济旅游
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-1.m3u8$[HD]南宁公共
@@ -85,9 +90,10 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8$[HD]tvb星河
 武乡新闻综合,https://t.freetv.fun/live/wu-xiang-xin-wen-zong-he-1.m3u8$[HD]武乡新闻综合
 武乡新闻综合,https://t.freetv.fun/live/wu-xiang-xin-wen-zong-he.m3u8$[HD]武乡新闻综合
 民视,rtmp://f13h.mine.nu/sat/tv051$[HD]民视
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-5.m3u8$[HD]江苏卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php$[HD]洪金宝
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-2.m3u8$[HD]洪金宝
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-11.m3u8$[HD]河北卫视
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-12.m3u8$[HD]河北卫视
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8$[HD]浙江国际
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-10.m3u8$[HD]浙江新闻
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8$[HD]浙江新闻
@@ -99,7 +105,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8$[HD]tvb星河
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8$[HD]湖州公共
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8$[HD]湖州公共
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8$[HD]湖州娱乐
-电影,https://t.freetv.fun/live/dian-ying-5.m3u8$[HD]电影
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$[HD]纬来体育
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$[HD]緯來體育
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-1-1.m3u8$[HD]绍兴公共
@@ -119,6 +124,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8$[HD]tvb星河
 華視,https://t.freetv.fun/live/hua-shi-2.ts$[HD]華視
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8$[HD]萧山新闻综合
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he.m3u8$[HD]萧山新闻综合
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-6.m3u8$[HD]贵州卫视
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-1.m3u8$[HD]邢台综合
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8$[HD]邢台综合
 龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju-1.m3u8$[HD]龙华戏剧
