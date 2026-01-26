@@ -1,23 +1,22 @@
 更新时间,#genre#
-20260126 07:51:43,url
+20260127 07:53:57,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
-[HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-2.php
-[HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-2.php
-[HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing-1.php
-[HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.php
+[HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen.m3u8
+[HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
+[HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing.m3u8
+[HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-6.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-9.php
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.php
+[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
+[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-1.php
 tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
@@ -35,6 +34,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-3.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
+凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 十堰经济旅游,https://t.freetv.fun/live/shi-yan-jing-ji-lu-you.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
@@ -71,6 +71,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
+洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-6.m3u8
@@ -96,4 +97,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 華視,https://t.freetv.fun/live/hua-shi-2.ts
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he.m3u8
+邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-1.m3u8
+邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
 龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju-1.m3u8
