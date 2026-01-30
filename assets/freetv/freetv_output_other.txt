@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260130 07:57:14,url
+20260131 07:57:01,url
 
 
 freetv_other,#genre#
@@ -11,8 +11,7 @@ freetv_other,#genre#
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
-tvb星河,https://t.freetv.fun/live/tvbxing-he-1.php
-tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
+tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
@@ -23,7 +22,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-3.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
@@ -61,6 +59,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
+洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
