@@ -1,22 +1,20 @@
 更新时间,#genre#
-20260131 07:57:01,url
+20260201 07:54:54,url
 
 
 freetv_other,#genre#
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
+[HD]cctv2,https://t.freetv.fun/live/cctv2-4.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
-tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-3.m3u8
-东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.php
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8
@@ -45,7 +43,6 @@ tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-13.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-16.php
@@ -89,4 +86,3 @@ tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-1.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
-龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju-1.m3u8
