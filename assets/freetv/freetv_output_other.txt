@@ -1,9 +1,8 @@
 更新时间,#genre#
-20260201 07:54:54,url
+20260202 07:56:57,url
 
 
 freetv_other,#genre#
-[HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
 [HD]cctv2,https://t.freetv.fun/live/cctv2-4.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
@@ -11,6 +10,7 @@ freetv_other,#genre#
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
+tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
@@ -21,7 +21,6 @@ freetv_other,#genre#
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-3.m3u8
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 十堰经济旅游,https://t.freetv.fun/live/shi-yan-jing-ji-lu-you.m3u8
@@ -40,7 +39,7 @@ freetv_other,#genre#
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8
-广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
