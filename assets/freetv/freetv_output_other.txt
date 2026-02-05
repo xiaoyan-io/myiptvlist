@@ -1,10 +1,11 @@
 更新时间,#genre#
-20260205 07:58:35,url
+20260206 07:56:58,url
 
 
 freetv_other,#genre#
 [HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
 [HD]cctv11,https://t.freetv.fun/live/cctv11-1.m3u8
+[HD]cctv11,https://t.freetv.fun/live/cctv11.m3u8
 [HD]cctv13,https://t.freetv.fun/live/cctv13-8.m3u8
 [HD]cctv15,https://t.freetv.fun/live/cctv15-3.m3u8
 [HD]cctv2,https://t.freetv.fun/live/cctv2-11.m3u8
@@ -41,7 +42,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-2.m3u8
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo.m3u8
 吴江新闻综合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8
-好消息,https://t.freetv.fun/live/hao-xiao-xi.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
@@ -65,9 +65,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
+洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
