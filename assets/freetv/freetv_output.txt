@@ -1,15 +1,13 @@
 更新时间,#genre#
-20260207 07:57:42,url
+20260208 08:01:48,url
 
 
 freetv,#genre#
 [HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8$[HD]cctv1
 [HD]cctv11,https://t.freetv.fun/live/cctv11-1.m3u8$[HD]cctv11
-[HD]cctv11,https://t.freetv.fun/live/cctv11.m3u8$[HD]cctv11
 [HD]cctv13,https://t.freetv.fun/live/cctv13-8.m3u8$[HD]cctv13
 [HD]cctv15,https://t.freetv.fun/live/cctv15-3.m3u8$[HD]cctv15
 [HD]cctv2,https://t.freetv.fun/live/cctv2-11.m3u8$[HD]cctv2
-[HD]cctv2,https://t.freetv.fun/live/cctv2-4.m3u8$[HD]cctv2
 [HD]cctv4,https://t.freetv.fun/live/cctv4-1.m3u8$[HD]cctv4
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-1.m3u8$[HD]cctv5_plus
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8$[HD]cgtn
@@ -19,11 +17,9 @@ freetv,#genre#
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8$[HD]chc家庭影院
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8$[HD]chc影迷电影
 nba tv,https://t.freetv.fun/live/nba-tv-1.m3u8$[HD]nba_tv
-nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8$[HD]nba_tv
 tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-11.m3u8$[HD]东南卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-2.m3u8$[HD]东方卫视
-东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-8.m3u8$[HD]东方卫视
 东森超视,rtmp://f13h.mine.nu/sat/tv331$[HD]东森超视
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv$[HD]东莞新闻综合
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8$[HD]东莞新闻综合
@@ -35,7 +31,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8$[HD]兰溪新闻综合
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8$[HD]兰溪新闻综合
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8$[HD]内江综合
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php$[HD]凤凰资讯
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-2.php$[HD]凤凰香港
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8$[HD]十堰经济
 十堰经济旅游,https://t.freetv.fun/live/shi-yan-jing-ji-lu-you.m3u8$[HD]十堰经济旅游
@@ -49,7 +44,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 吴江新闻综合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8$[HD]吴江新闻综合
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-16.m3u8$[HD]四川卫视
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8$[HD]四川卫视
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8$[HD]大湾区卫视
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8$[HD]天津卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8$[HD]安徽卫视
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8$[HD]宜兴新闻
@@ -78,6 +72,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8$[HD]广州综合
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8$[HD]延边卫视
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8$[HD]延边卫视
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-1.m3u8$[HD]新疆卫视
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-4.m3u8$[HD]江苏卫视
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi.m3u8$[HD]江西卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
@@ -92,7 +87,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8$[HD]浙江钱江都市
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8$[HD]深圳卫视
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi.m3u8$[HD]湖北卫视
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-15.m3u8$[HD]湖南卫视
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-1.m3u8$[HD]湖州公共
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-2.m3u8$[HD]湖州公共
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8$[HD]湖州公共
