@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260208 08:01:48,url
+20260209 07:58:53,url
 
 
 freetv_other,#genre#
@@ -46,9 +46,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
-广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-5.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
