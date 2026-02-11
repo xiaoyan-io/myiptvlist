@@ -1,23 +1,14 @@
 更新时间,#genre#
-20260210 08:05:30,url
+20260211 08:06:51,url
 
 
 freetv_other,#genre#
-[HD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
-[HD]cctv11,https://t.freetv.fun/live/cctv11-1.m3u8
-[HD]cctv11,https://t.freetv.fun/live/cctv11.m3u8
-[HD]cctv13,https://t.freetv.fun/live/cctv13-8.m3u8
-[HD]cctv15,https://t.freetv.fun/live/cctv15-3.m3u8
-[HD]cctv2,https://t.freetv.fun/live/cctv2-11.m3u8
-[HD]cctv4,https://t.freetv.fun/live/cctv4-1.m3u8
-[HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv-1.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
@@ -47,9 +38,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8
-广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-5.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
@@ -87,6 +78,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3-1.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
+苏州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
 華視,https://t.freetv.fun/live/hua-shi-1.ts
