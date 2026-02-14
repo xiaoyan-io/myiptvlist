@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260214 07:59:48,url
+20260215 07:56:21,url
 
 
 freetv_other,#genre#
@@ -21,7 +21,6 @@ freetv_other,#genre#
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-2.php
-十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -55,6 +54,7 @@ freetv_other,#genre#
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
+洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
