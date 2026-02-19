@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260219 08:00:27,url
+20260220 07:59:21,url
 
 
 freetv_other,#genre#
@@ -20,7 +20,6 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-1.php
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-2.php
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
@@ -56,7 +55,6 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8

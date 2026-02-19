@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260219 08:00:27,url
+20260220 07:59:21,url
 
 
 freetv,#genre#
@@ -23,7 +23,6 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8$[HD]nba_tv
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8$[HD]兰溪新闻综合
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8$[HD]内江综合
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php$[HD]凤凰资讯
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php$[HD]凤凰资讯
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-1.php$[HD]凤凰香港
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-2.php$[HD]凤凰香港
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8$[HD]南宁公共
@@ -34,7 +33,6 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8$[HD]nba_tv
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-2.m3u8$[HD]南宁都市生活
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo.m3u8$[HD]南宁都市生活
 吴江新闻综合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8$[HD]吴江新闻综合
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8$[HD]四川卫视
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8$[HD]天津卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8$[HD]安徽卫视
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8$[HD]宜兴新闻
@@ -63,13 +61,8 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8$[HD]nba_tv
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8$[HD]广州综合
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8$[HD]延边卫视
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8$[HD]延边卫视
-新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-7.m3u8$[HD]新疆卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8$[HD]河北农民
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-10.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8$[HD]河北卫视
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php$[HD]洪金宝
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1.m3u8$[HD]浙江卫视
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8$[HD]浙江国际
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8$[HD]浙江新闻
