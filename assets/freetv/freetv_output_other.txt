@@ -1,15 +1,11 @@
 更新时间,#genre#
-20260220 07:59:21,url
+20260221 07:58:37,url
 
 
 freetv_other,#genre#
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
-[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
-[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
