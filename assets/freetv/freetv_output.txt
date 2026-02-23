@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260223 07:57:54,url
+20260224 07:59:38,url
 
 
 freetv,#genre#
@@ -55,15 +55,13 @@ freetv,#genre#
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8$[HD]广州综合
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8$[HD]延边卫视
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8$[HD]延边卫视
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-2.m3u8$[HD]新疆卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8$[HD]河北农民
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8$[HD]河北卫视
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1771804879&k=ad44cb48a11c8289e97707cdfe2edc36$[HD]河北卫视
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php$[HD]洪金宝
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-9.m3u8$[HD]河北卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1.m3u8$[HD]浙江卫视
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8$[HD]浙江国际
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8$[HD]浙江新闻
-浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8$[HD]浙江新闻
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8$[HD]浙江新闻
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-7.m3u8$[HD]浙江新闻
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8$[HD]浙江钱江都市
