@@ -1,10 +1,9 @@
 更新时间,#genre#
-20260225 08:01:19,url
+20260226 08:00:10,url
 
 
 freetv,#genre#
-[HD]cctv15,https://t.freetv.fun/live/cctv15-4.php$[HD]cctv15
-[HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-2.php$[HD]cctv5_plus
+[HD]cctv4,https://t.freetv.fun/live/cctv4-2.php$[HD]cctv4
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8$[HD]cgtn
@@ -40,10 +39,10 @@ freetv,#genre#
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8$[HD]广东珠江
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8$[HD]广州新闻
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8$[HD]广州新闻
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8$[HD]广州新闻
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8$[HD]广州新闻
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php$[HD]广州新闻
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-7.m3u8$[HD]广州新闻
-广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-8.m3u8$[HD]广州新闻
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8$[HD]广州竞赛
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8$[HD]广州综合
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8$[HD]广州综合
@@ -59,12 +58,6 @@ freetv,#genre#
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8$[HD]延边卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8$[HD]河北农民
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-1.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-3.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-4.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8$[HD]河北卫视
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8$[HD]河北卫视
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php$[HD]洪金宝
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8$[HD]浙江国际
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8$[HD]浙江新闻
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8$[HD]浙江钱江都市
