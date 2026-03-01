@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260301 07:53:54,url
+20260302 07:55:53,url
 
 
 freetv_other,#genre#
@@ -12,7 +12,6 @@ freetv_other,#genre#
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
@@ -54,7 +53,6 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
-明珠,https://t.freetv.fun/live/ming-zhu-6.php
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
 洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
