@@ -1,19 +1,13 @@
 更新时间,#genre#
-20260322 07:56:46,url
+20260323 07:59:59,url
 
 
 freetv,#genre#
 CCTV4K,https://t.freetv.fun/live/cctv4k-1.m3u8$[HD]cctv4k
 CCTV4K,https://t.freetv.fun/live/cctv4k-3.m3u8$[HD]cctv4k
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8$[HD]cctv-13hd
-[HD]cctv1,https://t.freetv.fun/live/cctv1-3.php$[HD]cctv1
-[HD]cctv11,https://t.freetv.fun/live/cctv11.php$[HD]cctv11
-[HD]cctv13,https://t.freetv.fun/live/cctv13.php$[HD]cctv13
-[HD]cctv15,https://t.freetv.fun/live/cctv15.php$[HD]cctv15
-[HD]cctv2,https://t.freetv.fun/live/cctv2-3.php$[HD]cctv2
+[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8$[HD]cctv-13hd
 [HD]cctv4,https://t.freetv.fun/live/cctv4-4.m3u8$[HD]cctv4
-[HD]cctv4,https://t.freetv.fun/live/cctv4-5.php$[HD]cctv4
-[HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.php$[HD]cctv5_plus
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8$[HD]cgtn
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8$[HD]cgtn
@@ -70,8 +64,10 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8$[HD]广州综合
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8$[HD]延边卫视
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8$[HD]延边卫视
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi.m3u8$[HD]新疆卫视
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8$[HD]河北农民
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8$[HD]河北农民
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-3.m3u8$[HD]河北卫视
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8$[HD]河北卫视
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8$[HD]浙江国际
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8$[HD]浙江新闻
@@ -84,7 +80,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8$[HD]湖州娱乐
 电影,https://t.freetv.fun/live/dian-ying-1.flv$[HD]电影
 电影,https://t.freetv.fun/live/dian-ying-4.flv$[HD]电影
-电影,https://t.freetv.fun/live/dian-ying-5.flv$[HD]电影
 电影,https://t.freetv.fun/live/dian-ying.flv$[HD]电影
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$[HD]纬来体育
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-1-1.m3u8$[HD]绍兴公共

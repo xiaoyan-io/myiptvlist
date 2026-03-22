@@ -1,17 +1,11 @@
 更新时间,#genre#
-20260322 07:56:46,url
+20260323 07:59:59,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv1,https://t.freetv.fun/live/cctv1-3.php
-[HD]cctv11,https://t.freetv.fun/live/cctv11.php
-[HD]cctv13,https://t.freetv.fun/live/cctv13.php
-[HD]cctv15,https://t.freetv.fun/live/cctv15.php
-[HD]cctv2,https://t.freetv.fun/live/cctv2-3.php
+[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv4,https://t.freetv.fun/live/cctv4-4.m3u8
-[HD]cctv4,https://t.freetv.fun/live/cctv4-5.php
-[HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.php
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
@@ -72,7 +66,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 电影,https://t.freetv.fun/live/dian-ying-1.flv
 电影,https://t.freetv.fun/live/dian-ying-4.flv
-电影,https://t.freetv.fun/live/dian-ying-5.flv
 电影,https://t.freetv.fun/live/dian-ying.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-1-1.m3u8
