@@ -1,23 +1,35 @@
 更新时间,#genre#
-20260324 08:00:24,url
+20260325 08:00:56,url
 
 
 freetv_ws,#genre#
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-2.m3u8
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-6.m3u8
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-9.m3u8
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi.m3u
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-3.m3u8
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-7.m3u8
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-9.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-6.m3u8
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-7.m3u8
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-9.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8
-宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-1.m3u8
-宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-2.m3u8
+安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-1.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-8.m3u8
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-7.m3u8
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.m3u8
-海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-1.m3u8
-海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-2.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-3.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-7.m3u8
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-4.m3u8
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-5.m3u8
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1774393277&k=048720804f3a4eb82c978bfe971f501a
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-3.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-4.m3u8
+湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-12.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-1.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-2.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-5.m3u8
+重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-1.m3u8

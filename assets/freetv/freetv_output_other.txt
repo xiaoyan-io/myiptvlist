@@ -1,26 +1,41 @@
 更新时间,#genre#
-20260324 08:00:24,url
+20260325 08:00:56,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
+[HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
+[HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen.m3u8
+[HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
+[HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le.m3u8
+[HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing-1.m3u8
+[HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing.m3u8
 [HD]cctv4,https://t.freetv.fun/live/cctv4-4.m3u8
+[HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
+[HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-11.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-9.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
+[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
+[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.m3u8
+[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-2.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-7.php
+中视,https://t.freetv.fun/live/zhong-shi-8.php
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.php
+凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-3.php
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.php
+刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 剧集,https://t.freetv.fun/live/ju-ji.flv
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -56,8 +71,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
-洪金宝,https://t.freetv.fun/live/hong-jin-bao.flv
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
