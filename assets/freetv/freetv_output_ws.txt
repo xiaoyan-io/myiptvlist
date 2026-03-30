@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260329 08:00:03,url
+20260330 08:02:51,url
 
 
 freetv_ws,#genre#
@@ -17,11 +17,14 @@ freetv_ws,#genre#
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-6.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-8.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-6.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-3.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-9.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-5.m3u8
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-12.m3u8
+湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-5.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-6.m3u8
 重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-1.m3u8
