@@ -1,21 +1,19 @@
 更新时间,#genre#
-20260415 09:08:33,url
+20260416 09:11:48,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn.m3u8
-[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.php
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
-[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-6.php
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
+nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-2.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-3.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
@@ -24,11 +22,11 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-3.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
-中视,https://t.freetv.fun/live/zhong-shi-7.php
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 内江科教,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.php
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-2.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
