@@ -1,11 +1,10 @@
 更新时间,#genre#
-20260419 08:05:00,url
+20260420 09:09:22,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv11,https://t.freetv.fun/live/cctv11.m3u8
-[HD]cctv2,https://t.freetv.fun/live/cctv2-1.m3u8
+[HD]cctv11,https://t.freetv.fun/live/cctv11-2.m3u8
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
@@ -81,8 +80,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 电影,https://t.freetv.fun/live/dian-ying-1.flv
 电影,https://t.freetv.fun/live/dian-ying-4.flv
-电影,https://t.freetv.fun/live/dian-ying-6.flv
-电影,https://t.freetv.fun/live/dian-ying-9.flv
 纬来体育,rtmp://9hv1.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
