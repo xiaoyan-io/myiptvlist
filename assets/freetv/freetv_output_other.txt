@@ -1,10 +1,9 @@
 更新时间,#genre#
-20260427 09:14:33,url
+20260428 09:22:51,url
 
 
 freetv_other,#genre#
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-3.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
@@ -34,9 +33,8 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-3.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-2.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
-中视经典,https://t.freetv.fun/live/zhong-shi-jing-dian.m3u8
-优漫卡通,https://t.freetv.fun/live/you-man-qia-tong.m3u8
 内江科教,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-2.m3u8
@@ -93,6 +91,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 电影,https://t.freetv.fun/live/dian-ying-1.flv
 电影,https://t.freetv.fun/live/dian-ying-4.flv
+电影,https://t.freetv.fun/live/dian-ying-6.flv
 电影,https://t.freetv.fun/live/dian-ying-9.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
