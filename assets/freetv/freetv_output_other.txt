@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260430 09:22:32,url
+20260501 09:27:35,url
 
 
 freetv_other,#genre#
@@ -8,6 +8,7 @@ freetv_other,#genre#
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 [HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
 [HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing-1.m3u8
+[HD]cctv4,https://t.freetv.fun/live/cctv4.m3u8
 [HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
@@ -18,7 +19,6 @@ freetv_other,#genre#
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-6.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
-[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
@@ -26,8 +26,6 @@ freetv_other,#genre#
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
-tvb星河,https://t.freetv.fun/live/tvbxing-he-2.m3u8
-tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
@@ -36,6 +34,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 内江科教,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
+刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-2.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -93,7 +92,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 电影,https://t.freetv.fun/live/dian-ying-1.flv
 电影,https://t.freetv.fun/live/dian-ying-4.flv
-电影,https://t.freetv.fun/live/dian-ying-6.flv
 电影,https://t.freetv.fun/live/dian-ying.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
