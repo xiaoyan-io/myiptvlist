@@ -1,11 +1,10 @@
 更新时间,#genre#
-20260527 09:51:03,url
+20260528 09:24:51,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-4.m3u8
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-5.m3u8
-[HD]cctv-11,https://t.freetv.fun/live/cctv-11-5.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-5.m3u8
@@ -24,9 +23,11 @@ freetv_other,#genre#
 [HD]cctv2,https://t.freetv.fun/live/cctv2-18.m3u8
 [HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
+[HD]cgtn,https://t.freetv.fun/live/cgtn-1-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
+[HD]cgtn,https://t.freetv.fun/live/cgtn-4.php
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.m3u8
@@ -48,13 +49,11 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
-优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-4.m3u8
+优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-5.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-2.m3u8
 内江科教,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.php
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
 剧集,https://t.freetv.fun/live/ju-ji.flv
 动物星球,https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
@@ -98,6 +97,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-9.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1-1.m3u8
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1-1.m3u8
@@ -127,10 +127,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 电影,https://t.freetv.fun/live/dian-ying-11.flv
 电影,https://t.freetv.fun/live/dian-ying-12.flv
-电影,https://t.freetv.fun/live/dian-ying-16.m3u8
-电影,https://t.freetv.fun/live/dian-ying-36.m3u8
 电影,https://t.freetv.fun/live/dian-ying-6.flv
 电影,https://t.freetv.fun/live/dian-ying-8.m3u8
+电影,https://t.freetv.fun/live/dian-ying-9.flv
 电影,https://t.freetv.fun/live/dian-ying.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
