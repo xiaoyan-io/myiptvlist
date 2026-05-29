@@ -1,15 +1,11 @@
 更新时间,#genre#
-20260528 09:24:51,url
+20260529 09:33:56,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-4.m3u8
-[HD]cctv-1,https://t.freetv.fun/live/cctv-1-5.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
-[HD]cctv-15,https://t.freetv.fun/live/cctv-15-5.m3u8
 [HD]cctv-4,https://t.freetv.fun/live/cctv-4-5.m3u8
-[HD]cctv-4,https://t.freetv.fun/live/cctv-4-6.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-1.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-2.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-3.m3u8
@@ -21,6 +17,7 @@ freetv_other,#genre#
 [HD]cctv13,https://t.freetv.fun/live/cctv13-4.m3u8
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 [HD]cctv2,https://t.freetv.fun/live/cctv2-18.m3u8
+[HD]cctv4,https://t.freetv.fun/live/cctv4-1.m3u8
 [HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 [HD]cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1-1.m3u8
@@ -36,8 +33,6 @@ freetv_other,#genre#
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-10.m3u8
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-11.php
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-6.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
@@ -100,6 +95,8 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1-1.m3u8
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1.m3u8
+智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu-1.php
+智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu-2.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1-1.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-2.m3u8
@@ -110,7 +107,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-3.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-3.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-3.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
