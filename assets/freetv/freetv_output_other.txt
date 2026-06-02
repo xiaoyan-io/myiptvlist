@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260601 09:59:50,url
+20260602 10:01:54,url
 
 
 freetv_other,#genre#
@@ -12,7 +12,6 @@ freetv_other,#genre#
 [HD]cctv-4,https://t.freetv.fun/live/cctv-4-5.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-1.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-2.m3u8
-[HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-3.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-4.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-7.m3u8
 [HD]cctv-5 体育赛事,https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-8.m3u8
@@ -24,10 +23,8 @@ freetv_other,#genre#
 [HD]cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.m3u8
-[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-6.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
@@ -59,9 +56,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 吴江新闻综合,rtmp://ctlive2.wjdaily.com/wjtv/ch1
 宜兴新闻综合,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
 嵊州新闻综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-1.m3u8
-平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-13.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-20.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-24.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-25.m3u8
@@ -75,7 +69,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-11.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-18.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-21.m3u8
