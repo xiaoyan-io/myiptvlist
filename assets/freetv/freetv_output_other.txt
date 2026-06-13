@@ -1,25 +1,21 @@
 更新时间,#genre#
-20260612 09:59:59,url
+20260613 09:51:37,url
 
 
 freetv_other,#genre#
-[HD]cctv-1,https://t.freetv.fun/live/cctv-1-1.m3u8
-[HD]cctv-11,https://t.freetv.fun/live/cctv-11-3.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-3.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv-4,https://t.freetv.fun/live/cctv-4-5.m3u8
 [HD]cctv13,https://t.freetv.fun/live/cctv13-4.m3u8
-[HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
+[HD]cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-5.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-9.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.php
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
@@ -40,7 +36,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 南宁都市生活频道,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-pin-dao.m3u8
 吴江新闻综合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8
 吴江新闻综合,rtmp://ctlive2.wjdaily.com/wjtv/ch1
-宜兴新闻综合,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
 嵊州新闻综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-14.m3u8
@@ -61,10 +56,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
-开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1-1.m3u8
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1.m3u8
-智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu-2.m3u8
-智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1-1.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1.m3u8
 有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-2.m3u8
