@@ -1,13 +1,9 @@
 更新时间,#genre#
-20260613 09:51:37,url
+20260614 10:00:06,url
 
 
 freetv_other,#genre#
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-3.m3u8
-[HD]cctv-4,https://t.freetv.fun/live/cctv-4-5.m3u8
-[HD]cctv13,https://t.freetv.fun/live/cctv13-4.m3u8
+[HD]cctv-13,https://t.freetv.fun/live/cctv-13.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
@@ -42,7 +38,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-19.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-20.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-21.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-26.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-9.m3u8
 广元综合,https://t.freetv.fun/live/yan-yuan-zong-he.m3u8
@@ -57,11 +52,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
 开化新闻综合,https://t.freetv.fun/live/kai-hua-xin-wen-zong-he-1.m3u8
-有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1-1.m3u8
-有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-1.m3u8
-有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-2.m3u8
-有线新闻台,https://t.freetv.fun/live/you-xian-xin-wen-tai-3.m3u8
-有线财经信息台,https://t.freetv.fun/live/you-xian-cai-jing-xin-xi-tai.m3u8
 武乡新闻综合,https://t.freetv.fun/live/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://t.freetv.fun/live/wu-xiang-xin-wen-zong-he.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-3.m3u8
@@ -83,21 +73,14 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-3.m3u8
 绍兴公共频道,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-1.m3u8
-绍兴公共频道,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-2.m3u8
 绍兴文化,https://t.freetv.fun/live/shao-xing-wen-hua.m3u8
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-1.m3u8
 绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-2.m3u8
-绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8
-绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2-1.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-3.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-2.m3u8
-靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-2.m3u8
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he.m3u8
 靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
-香港有线新闻,https://t.freetv.fun/live/xiang-gang-you-xian-xin-wen-1.m3u
 黑龙江文体,https://t.freetv.fun/live/hei-long-jiang-wen-ti-1.m3u8
-黑龙江文体,https://t.freetv.fun/live/hei-long-jiang-wen-ti.m3u8
-黑龙江新闻法治,https://t.freetv.fun/live/hei-long-jiang-xin-wen-fa-zhi.m3u8
