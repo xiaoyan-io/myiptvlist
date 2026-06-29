@@ -1,5 +1,6 @@
 更新时间,#genre#
-20260628 09:51:11,url
+20260629 09:54:12,url
 
 
 freetv_cctv,#genre#
+CCTV4K,https://t.freetv.fun/live/cctv4k-3.m3u8
