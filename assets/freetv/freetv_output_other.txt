@@ -1,12 +1,13 @@
 更新时间,#genre#
-20260704 09:15:29,url
+20260705 09:23:52,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-3.m3u8
+[HD]cctv-1,https://t.freetv.fun/live/cctv-1.m3u8
+[HD]cctv-11,https://t.freetv.fun/live/cctv-11-3.m3u8
 [HD]cctv-11,https://t.freetv.fun/live/cctv-11.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv-4,https://t.freetv.fun/live/cctv-4.m3u8
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
@@ -21,21 +22,23 @@ freetv_other,#genre#
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
-[HD]cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
-[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 [HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.m3u8
-[HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv.m3u8
+tvb星河,https://t.freetv.fun/live/tvbxing-he-1.php
+东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
+中視,https://t.freetv.fun/live/zhong-shi-2-1.php
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-2.m3u8
 优漫卡通,https://t.freetv.fun/live/you-man-qia-tong.m3u8
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.php
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
 动物星球,https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 宜兴新闻综合,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he.m3u8
@@ -55,7 +58,10 @@ nba tv,https://t.freetv.fun/live/nba-tv.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
+明珠,https://t.freetv.fun/live/ming-zhu-3.php
 明珠,https://t.freetv.fun/live/ming-zhu.m3u8
+民視第一,https://t.freetv.fun/live/min-shi-di-yi-1.php
+民视,https://t.freetv.fun/live/min-shi-1.php
 民视,rtmp://f13h.mine.nu/sat/tv051
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-3.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-2.m3u8
@@ -67,11 +73,15 @@ nba tv,https://t.freetv.fun/live/nba-tv.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
 电影,https://t.freetv.fun/live/dian-ying-4.flv
 电影,https://t.freetv.fun/live/dian-ying-5.flv
+电影,https://t.freetv.fun/live/dian-ying-9.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-2.m3u8
 经典电影,https://t.freetv.fun/live/jing-dian-dian-ying.m3u8
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-1.php
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-2.php
 美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying.m3u8
+華視新聞,https://t.freetv.fun/live/hua-shi-xin-wen-1-1.php
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-1.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
