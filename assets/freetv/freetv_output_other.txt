@@ -1,11 +1,9 @@
 更新时间,#genre#
-20260715 09:00:04,url
+20260716 09:07:02,url
 
 
 freetv_other,#genre#
-[HD]cctv-1,https://t.freetv.fun/live/cctv-1-2.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-4.m3u8
-[HD]cctv-15,https://t.freetv.fun/live/cctv-15-2.m3u8
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 [HD]cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen.m3u8
 [HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
@@ -41,7 +39,6 @@ freetv_other,#genre#
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
 明珠,https://t.freetv.fun/live/ming-zhu.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -51,8 +48,8 @@ freetv_other,#genre#
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-6.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-7.m3u8
-湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
-电影,https://t.freetv.fun/live/dian-ying-7.flv
+电影,https://t.freetv.fun/live/dian-ying-2.flv
+电影,https://t.freetv.fun/live/dian-ying-5.flv
 电影,https://t.freetv.fun/live/dian-ying.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
