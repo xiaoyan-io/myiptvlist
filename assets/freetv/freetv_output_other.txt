@@ -1,18 +1,22 @@
 更新时间,#genre#
-20260808 08:04:50,url
+20260809 08:01:35,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-1.m3u8
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-2.m3u8
 [HD]cctv-11,https://t.freetv.fun/live/cctv-11.m3u8
+[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
+[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-4.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-1.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-3.m3u8
+[HD]cctv-4,https://t.freetv.fun/live/cctv-4-2.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
+[HD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
@@ -36,6 +40,7 @@ freetv_other,#genre#
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.php
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
