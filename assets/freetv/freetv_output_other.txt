@@ -1,18 +1,18 @@
 更新时间,#genre#
-20260809 08:01:35,url
+20260810 08:03:55,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-1.m3u8
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-2.m3u8
 [HD]cctv-11,https://t.freetv.fun/live/cctv-11.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-4.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-1.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-3.m3u8
-[HD]cctv-4,https://t.freetv.fun/live/cctv-4-2.m3u8
+[HD]cctv1,http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[HD]cctv15,https://t.freetv.fun/live/cctv15-7.m3u8
+[HD]cctv4,https://t.freetv.fun/live/cctv4-5.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
@@ -28,19 +28,14 @@ freetv_other,#genre#
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-12.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-19.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-4.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-5.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-6.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-8.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.php
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.php
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
