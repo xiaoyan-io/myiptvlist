@@ -1,16 +1,14 @@
 更新时间,#genre#
-20260821 07:58:27,url
+20260822 07:58:35,url
 
 
 freetv_other,#genre#
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-1.m3u8
 [HD]cctv-1,https://t.freetv.fun/live/cctv-1-2.m3u8
-[HD]cctv-1,https://t.freetv.fun/live/cctv-1.m3u8
+[HD]cctv-1,https://t.freetv.fun/live/cctv-1-3.m3u8
 [HD]cctv-11,https://t.freetv.fun/live/cctv-11-3.m3u8
 [HD]cctv-11,https://t.freetv.fun/live/cctv-11.m3u8
-[HD]cctv-13,https://t.freetv.fun/live/cctv-13.m3u8
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
-[HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-4.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-1.m3u8
 [HD]cctv-15,https://t.freetv.fun/live/cctv-15-3.m3u8
 [HD]cctv-4,https://t.freetv.fun/live/cctv-4-1.m3u8
@@ -24,9 +22,9 @@ freetv_other,#genre#
 [HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le-3.m3u8
 [HD]cctv15音乐,https://t.freetv.fun/live/cctv15yin-le.m3u8
 [HD]cctv2,https://t.freetv.fun/live/cctv2-11.m3u8
+[HD]cctv2,https://t.freetv.fun/live/cctv2-12.m3u8
 [HD]cctv2,rtmp://yftv-wshls.yzbtv.cn/live/11ecc
 [HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing-3.m3u8
-[HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing-4.m3u8
 [HD]cctv2财经,https://t.freetv.fun/live/cctv2cai-jing.m3u8
 [HD]cctv4,https://t.freetv.fun/live/cctv4-5.m3u8
 [HD]cctv4,rtmp://yftv-wshls.yzbtv.cn/live/11ef0
@@ -35,7 +33,6 @@ freetv_other,#genre#
 [HD]cgtn,https://t.freetv.fun/live/cgtn-1.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-15.m3u8
 [HD]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
-[HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
 [HD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-4.m3u8
 [HD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
@@ -45,6 +42,8 @@ freetv_other,#genre#
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
+优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-2.m3u8
+优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-3.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
@@ -80,7 +79,6 @@ freetv_other,#genre#
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
-电影,https://t.freetv.fun/live/dian-ying.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
