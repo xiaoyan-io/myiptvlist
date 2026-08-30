@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 group-title="更新时间",20260829 14:52:15
+#EXTINF:-1 group-title="更新时间",20260830 13:05:35
 https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 #EXTINF:-1 group-title="更新时间",关于本源(iptv365.org)
 https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 #EXTINF:-1 group-title="更新时间",(百)每日一首
-http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cngumojc77ubsn73764g&ratio=720p&line=0
 #EXTINF:-1 group-title="更新时间",(宝)MovieMusic欣赏
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 #EXTINF:-1 group-title="更新时间",(箱)AMC音乐
@@ -1177,12 +1177,116 @@ http://vocotv.pro//revol/revol/276924
 http://vocotv.pro//revol/revol/276906
 #EXTINF:-1 group-title="🏈体育赛事🏆️",24小时城市联赛轮播
 https://live.chinacert.cftest5.cn/cnmg/live/915512915
+#EXTINF:-1 group-title="🏈体育赛事🏆️",BWF经典重映-梁王组合夺世锦赛首金全场回放(明星视角)12:00
+http://113.98.11.46:3000/966959307
+#EXTINF:-1 group-title="🏈体育赛事🏆️",BWF经典重映-梁王组合夺世锦赛首金全场回放(鸿昆、高昉洁、杜玥、刘雨辰、黄雅琼)(50帧原画)12:00
+http://113.98.11.46:3000/966957208
+#EXTINF:-1 group-title="🏈体育赛事🏆️",CPB中国棒球城市联赛上海虎鲸VS福州海侠清流播出16:30
+http://113.98.11.46:3000/967034455
+#EXTINF:-1 group-title="🏈体育赛事🏆️",CPB中国棒球城市联赛北京正大龙3-8深圳蓝袜2026赛季CPB中国棒球城市联赛深圳赛区全场回放：北京正大龙3-8深圳蓝袜(官方解说)16:30
+http://113.98.11.46:3000/967097412
+#EXTINF:-1 group-title="🏈体育赛事🏆️",CPB中国棒球城市联赛深圳蓝袜VS北京正大龙清流播出16:30
+http://113.98.11.46:3000/967034473
+#EXTINF:-1 group-title="🏈体育赛事🏆️",CPB中国棒球城市联赛福州海侠1-7上海虎鲸2026赛季CPB中国棒球城市联赛上海赛区全场回放：福州海侠1-7上海虎鲸(官方解说)16:30
+http://113.98.11.46:3000/967096069
+#EXTINF:-1 group-title="🏈体育赛事🏆️",NBA经典赛事NBA精彩重播：快船vs湖人杨健曾令旭刘铁18:00
+http://113.98.11.46:3000/966323738
+#EXTINF:-1 group-title="🏈体育赛事🏆️",NBA经典赛事NBA精彩重播：快船vs火箭邵化谦苏群18:00
+http://113.98.11.46:3000/966323731
+#EXTINF:-1 group-title="🏈体育赛事🏆️",NBA经典赛事NBA精彩重播：骑士vs掘金全场回放(连睿、王润陶)18:00
+http://113.98.11.46:3000/963000463
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(上帝视角)14:55
+http://113.98.11.46:3000/967098964
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(媒体室视角)14:55
+http://113.98.11.46:3000/967097425
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(混采区视角)14:55
+http://113.98.11.46:3000/967096524
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(王琰博、张伟丽、李景亮)14:55
+http://113.98.11.46:3000/967093038
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(英文原声)14:55
+http://113.98.11.46:3000/967093217
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔主赛(解说席视角)14:55
+http://113.98.11.46:3000/967100160
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(上帝视角)14:55
+http://113.98.11.46:3000/967088943
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(媒体室视角)14:55
+http://113.98.11.46:3000/967085595
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(混采区视角)14:55
+http://113.98.11.46:3000/967085529
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(王琰博、张伟丽、李景亮)14:55
+http://113.98.11.46:3000/967085797
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(英文原声)14:55
+http://113.98.11.46:3000/967085139
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(解说席视角)14:55
+http://113.98.11.46:3000/967093083
+#EXTINF:-1 group-title="🏈体育赛事🏆️",UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔激战前夜全场回放：宋亚东vs乌马尔特辑(陈瑞阳)14:55
+http://113.98.11.46:3000/967078942
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA梅尔滕斯逆转晋级帕里横扫进决赛【女单半决赛】巴图科娃1-2梅尔滕斯(英文原声)07:00
+http://113.98.11.46:3000/967078656
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA梅尔滕斯逆转晋级帕里横扫进决赛【女单半决赛】巴图科娃1-2梅尔滕斯(赛场原声)07:00
+http://113.98.11.46:3000/967078758
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA梅尔滕斯逆转晋级帕里横扫进决赛【女单半决赛】帕里2-0李吉妮(英文原声)07:00
+http://113.98.11.46:3000/967076799
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA梅尔滕斯逆转晋级帕里横扫进决赛【女单半决赛】帕里2-0李吉妮(赛场原声)07:00
+http://113.98.11.46:3000/967076922
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA黛安娜·帕里VS梅尔滕斯英文原声07:30
+http://113.98.11.46:3000/966892675
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA黛安娜·帕里VS梅尔滕斯赛场原声07:30
+http://113.98.11.46:3000/967079248
+#EXTINF:-1 group-title="🏈体育赛事🏆️",WTA黛安娜·帕里VS梅尔滕斯郭丰庆07:30
+http://113.98.11.46:3000/967079254
 #EXTINF:-1 group-title="🏈体育赛事🏆️",世界杯++
 http://183.129.255.66:8480/hls/17/index.m3u8
 #EXTINF:-1 group-title="🏈体育赛事🏆️",世界杯+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 group-title="🏈体育赛事🏆️",世界杯
 http://120.76.248.139/live/bfgd/4200000064.m3u8
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中国自行车运动协会系列赛中国公路自行车公开赛(湖北恩施站)DAY12026中国公路自行车公开赛(湖北恩施站)全场回放(官方解说)07:15
+http://113.98.11.46:3000/967080291
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中国自行车运动协会系列赛中国公路自行车公开赛(湖北恩施站)DAY2湖北恩施站08:15
+http://113.98.11.46:3000/966982715
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲佛山南狮VS深圳青年人全场回放(官方解说)19:20
+http://113.98.11.46:3000/967097598
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲南京城市VS广西恒宸全场回放(官方解说)19:20
+http://113.98.11.46:3000/967099238
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲大连鲲城VS南通支云赛场原声18:50
+http://113.98.11.46:3000/966992506
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲宁波职业足球俱乐部VS梅州客家赛场原声18:50
+http://113.98.11.46:3000/966992470
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲定南赣联VS苏州东吴全场回放(官方解说)19:50
+http://113.98.11.46:3000/967098920
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲广东广州豹足球俱乐部VS长春亚泰赛场原声19:20
+http://113.98.11.46:3000/966992545
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲石家庄功夫VS无锡吴钩全场回放(官方解说)19:20
+http://113.98.11.46:3000/967097982
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中甲陕西联合VS延边龙鼎全场回放(官方解说)18:50
+http://113.98.11.46:3000/967097813
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超天津津门虎VS青岛西海岸全场回放(袁甲、冯潇霆)18:45
+http://113.98.11.46:3000/967093402
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超成都蓉城VS辽宁铁人楠波湾全场回放(苏东、杨晨、李子琪)19:20
+http://113.98.11.46:3000/967095905
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超河南俱乐部彩陶坊VS重庆铜梁龙全场回放(刘腾、王伟)19:45
+http://113.98.11.46:3000/967095925
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超浙江俱乐部绿城VS云南玉昆全场回放(AI智慧观赛)18:55
+http://113.98.11.46:3000/967094971
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超浙江俱乐部绿城VS云南玉昆全场回放(AI智能解说)18:55
+http://113.98.11.46:3000/967094273
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超浙江俱乐部绿城VS云南玉昆全场回放(张昊泽、张辛昕)18:55
+http://113.98.11.46:3000/967093343
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超青岛海牛VS武汉三镇全场回放(AI智慧观赛)16:55
+http://113.98.11.46:3000/967086337
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超青岛海牛VS武汉三镇全场回放(AI智能解说)16:55
+http://113.98.11.46:3000/967086518
+#EXTINF:-1 group-title="🏈体育赛事🏆️",中超青岛海牛VS武汉三镇全场回放(石庆圣、李彦、姚安妮)16:55
+http://113.98.11.46:3000/967087975
+#EXTINF:-1 group-title="🏈体育赛事🏆️",全国女子篮球锦标赛北京师范大学VS上海浦发银行全场回放15:50
+http://113.98.11.46:3000/967085757
+#EXTINF:-1 group-title="🏈体育赛事🏆️",全国女子篮球锦标赛四川蜀道远达VS山东高速赤水河酒女篮清流播出19:20
+http://113.98.11.46:3000/967076852
+#EXTINF:-1 group-title="🏈体育赛事🏆️",全国女子篮球锦标赛江苏南钢VS北京首钢园清流播出15:50
+http://113.98.11.46:3000/967076843
+#EXTINF:-1 group-title="🏈体育赛事🏆️",全国女子篮球锦标赛浙江稠州银行VS合肥文旅全场回放19:20
+http://113.98.11.46:3000/967097083
 #EXTINF:-1 group-title="🏈体育赛事🏆️",咪视通-1
 http://111.22.153.159:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="🏈体育赛事🏆️",咪视通-10
@@ -1293,6 +1397,394 @@ http://111.22.153.159:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 http://45.8.113.249:50001/TVOD/3000000010000005180/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="🏈体育赛事🏆️",咪视通4K-2
 http://45.8.113.249:50001/TVOD/3000000010000015686/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲RB莱比锡VS门兴格拉德巴赫全场回放(涂远、秦游夏)21:15
+http://113.98.11.46:3000/967100541
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲埃尔沃斯贝格VS勒沃库森全场回放(刘洋)21:15
+http://113.98.11.46:3000/967100993
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲多特蒙德VS汉堡全场回放(沈云怡、鲁靖明)00:15
+http://113.98.11.46:3000/967109650
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲奥格斯堡VS沙尔克04赛场原声23:15
+http://113.98.11.46:3000/966999345
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲弗赖堡VS云达不莱梅赛场原声21:15
+http://113.98.11.46:3000/966999328
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲拜仁慕尼黑VS斯图加特全场回放(AI智慧观赛)02:25
+http://113.98.11.46:3000/967074568
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲拜仁慕尼黑VS斯图加特全场回放(智能解说)02:25
+http://113.98.11.46:3000/967074656
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲拜仁慕尼黑VS斯图加特全场回放(胡小凡、张力)02:25
+http://113.98.11.46:3000/967074814
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲柏林联VS法兰克福全场回放(吴子越)21:15
+http://113.98.11.46:3000/967101026
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲科隆VS霍芬海姆全场回放(周楚雄)21:15
+http://113.98.11.46:3000/967100969
+#EXTINF:-1 group-title="🏈体育赛事🏆️",德甲美因茨VS帕德博恩全场回放(刘洪新)21:15
+http://113.98.11.46:3000/967100701
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA安庆VS马鞍山赛场原声19:00
+http://113.98.11.46:3000/966979858
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA宿州VS宣城全场回放19:00
+http://113.98.11.46:3000/967097629
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA池州VS亳州全场回放19:00
+http://113.98.11.46:3000/967096921
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA淮北VS六安全场回放19:00
+http://113.98.11.46:3000/967099654
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA淮南VS阜阳全场回放19:00
+http://113.98.11.46:3000/967097390
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA滁州VS铜陵赛场原声19:00
+http://113.98.11.46:3000/966979867
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA芜湖VS合肥赛场原声19:00
+http://113.98.11.46:3000/966979870
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽BA蚌埠VS黄山赛场原声19:00
+http://113.98.11.46:3000/966979873
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛亳州VS铜陵赛场原声16:00
+http://113.98.11.46:3000/966980371
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛六安VS安庆全场回放16:30
+http://113.98.11.46:3000/967085958
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛淮南VS阜阳赛场原声19:30
+http://113.98.11.46:3000/966980362
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛滁州VS合肥全场回放19:30
+http://113.98.11.46:3000/967096733
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛芜湖VS池州赛场原声17:00
+http://113.98.11.46:3000/966980350
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛蚌埠VS淮北全场回放18:00
+http://113.98.11.46:3000/967096999
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛马鞍山VS宣城赛场原声16:00
+http://113.98.11.46:3000/966980364
+#EXTINF:-1 group-title="🏈体育赛事🏆️",徽青赛黄山VS宿州全场回放16:00
+http://113.98.11.46:3000/967085560
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲AC米兰VS威尼斯全场回放(石庆圣、李彦)02:30
+http://113.98.11.46:3000/967075026
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲佛罗伦萨VS弗罗西诺内全场回放(刘焕)00:15
+http://113.98.11.46:3000/967109838
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲卡利亚里VS国际米兰赛场原声02:30
+http://113.98.11.46:3000/967027582
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲尤文图斯VS帕尔马全场回放(孙雨轩、刘腾)02:30
+http://115.57.164.193:1234/967115372
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲尤文图斯VS帕尔马赛场原声02:30
+http://113.98.11.46:3000/967027690
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲拉齐奥VS热那亚赛场原声02:30
+http://113.98.11.46:3000/967027602
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲萨索洛VS都灵全场回放(乔迁)00:15
+http://113.98.11.46:3000/967109454
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲蒙扎VS乌迪内斯全场回放(梁祥宇)00:15
+http://113.98.11.46:3000/967110825
+#EXTINF:-1 group-title="🏈体育赛事🏆️",意甲那不勒斯VS科莫赛场原声00:15
+http://113.98.11.46:3000/967027660
+#EXTINF:-1 group-title="🏈体育赛事🏆️",攀岩系列赛中国速度攀岩系列赛(湖南长沙站)Day12026年中国速度攀岩系列赛湖南长沙站Day1全场回放(官方解说)(一)09:10
+http://113.98.11.46:3000/967081634
+#EXTINF:-1 group-title="🏈体育赛事🏆️",攀岩系列赛中国速度攀岩系列赛(湖南长沙站)Day12026年中国速度攀岩系列赛湖南长沙站Day1全场回放(官方解说)(二)09:10
+http://113.98.11.46:3000/967094960
+#EXTINF:-1 group-title="🏈体育赛事🏆️",攀岩系列赛中国速度攀岩系列赛(湖南长沙站)Day2湖南长沙站12:00
+http://113.98.11.46:3000/967032272
+#EXTINF:-1 group-title="🏈体育赛事🏆️",攀岩系列赛中国速度攀岩系列赛(湖南长沙站)Day3湖南长沙站17:30
+http://113.98.11.46:3000/967032284
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克
+http://1.14.124.206:35455/huya/27599671
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉26/27斯诺克武汉公开赛决赛第1阶段回放：赵心童4-5常冰玉(柏林)14:00
+http://113.98.11.46:3000/967084811
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉26/27斯诺克武汉公开赛决赛第1阶段回放：赵心童4-5常冰玉(赛场原声)14:00
+http://113.98.11.46:3000/967084898
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉26/27斯诺克武汉公开赛决赛第2阶段回放：赵心童7-10常冰玉(赛场原声)19:30
+http://113.98.11.46:3000/967106508
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉【回放】赵心童4-5常冰玉(柏林)14:00
+http://115.57.164.193:1234/967084811
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉【回放】赵心童4-5常冰玉(赛场原声)14:00
+http://115.57.164.193:1234/967084898
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉【回放】赵心童7-10常冰玉(秦正、庞卫国)(50帧原画)19:30
+http://113.98.11.46:3000/967100686
+#EXTINF:-1 group-title="🏈体育赛事🏆️",斯诺克赵心童VS常冰玉【回放】赵心童7-10常冰玉(赛场原声)19:30
+http://115.57.164.193:1234/967106508
+#EXTINF:-1 group-title="🏈体育赛事🏆️",晋超联赛朔州市87-72大同市2026赛季山西省男子篮球超级联赛第4轮全场回放:朔州市VS大同市(50帧原画)19:20
+http://113.98.11.46:3000/967096779
+#EXTINF:-1 group-title="🏈体育赛事🏆️",楚超仙桃黄鳝队VS随州炎炎队全场回放19:00
+http://113.98.11.46:3000/967100465
+#EXTINF:-1 group-title="🏈体育赛事🏆️",楚超孝感孝傲江湖队VS恩施小土豆队全场回放19:25
+http://113.98.11.46:3000/967100498
+#EXTINF:-1 group-title="🏈体育赛事🏆️",楚超武汉华工科技队VS荆州恒隆队全场回放19:25
+http://113.98.11.46:3000/967100353
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲巴黎FCVS尼斯赛场原声20:45
+http://113.98.11.46:3000/966999630
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲布雷VS图卢兹全场回放(邵煊)02:30
+http://115.57.164.193:1234/967114730
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲布雷VS图卢兹赛场原声02:30
+http://47.120.5.28:1234/966999580
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲拉斯堡VS朗斯全场回放(盛斌)23:00
+http://113.98.11.46:3000/967107159
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲摩纳哥VS马赛赛场原声02:30
+http://113.98.11.46:3000/966999669
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲欧塞尔VS昂热全场回放(盛斌)02:30
+http://115.57.164.193:1234/967115145
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲欧塞尔VS昂热赛场原声02:30
+http://47.120.5.28:1234/966999559
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲洛里昂VS特鲁瓦全场回放(刘一臻)02:30
+http://115.57.164.193:1234/967115883
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲洛里昂VS特鲁瓦赛场原声02:30
+http://47.120.5.28:1234/966999590
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲里尔VS巴黎圣日耳曼全场回放(鹿中原、王宇)02:30
+http://113.98.11.46:3000/967074875
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲里昂VS勒阿弗尔全场回放(乔迁)02:30
+http://115.57.164.193:1234/967116287
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲里昂VS勒阿弗尔赛场原声02:30
+http://47.120.5.28:1234/966999611
+#EXTINF:-1 group-title="🏈体育赛事🏆️",法甲雷恩VS勒芒赛场原声23:00
+http://113.98.11.46:3000/966999654
+#EXTINF:-1 group-title="🏈体育赛事🏆️",海河超儿东丽VS武清赛场原声16:00
+http://113.98.11.46:3000/967035208
+#EXTINF:-1 group-title="🏈体育赛事🏆️",海河超儿河北VS河东赛场原声18:00
+http://113.98.11.46:3000/967035213
+#EXTINF:-1 group-title="🏈体育赛事🏆️",海河超儿红桥6-0河西天津市海河足球超级联赛第4轮全场回放：红桥6:0河西(赛场原声)16:00
+http://113.98.11.46:3000/967085180
+#EXTINF:-1 group-title="🏈体育赛事🏆️",海河超儿静海0-2南开天津市海河足球超级联赛第4轮全场回放：静海0:2南开(赛场原声)18:00
+http://113.98.11.46:3000/967090614
+#EXTINF:-1 group-title="🏈体育赛事🏆️",湘超张家界队VS常德队赛场原声19:38
+http://113.98.11.46:3000/966706857
+#EXTINF:-1 group-title="🏈体育赛事🏆️",湘超怀化队VS娄底队全场回放19:38
+http://113.98.11.46:3000/967100182
+#EXTINF:-1 group-title="🏈体育赛事🏆️",湘超湘西队VS永州队全场回放19:38
+http://113.98.11.46:3000/967099525
+#EXTINF:-1 group-title="🏈体育赛事🏆️",湘超郴州队VS益阳队赛场原声19:38
+http://113.98.11.46:3000/966706864
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛中国VS黎巴嫩庄宁宇杨鸣陈正昊18:30
+http://113.98.11.46:3000/966984677
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛中国VS黎巴嫩赛场原声19:20
+http://113.98.11.46:3000/966984699
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛中国VS黎巴嫩连睿周琦周鹏18:30
+http://113.98.11.46:3000/966984691
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛乌克兰VS希腊全场回放(赛场原声)23:50
+http://113.98.11.46:3000/967071828
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛几内亚VS喀麦隆赛场原声22:50
+http://113.98.11.46:3000/966984447
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛刚果共和国VS马里全场回放(赛场原声)23:20
+http://115.57.164.193:1234/967115642
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛刚果共和国VS马里全场回放23:20
+http://223.83.177.142:1234/967115642
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛喀麦隆VS突尼斯全场回放(赛场原声)01:50
+http://113.98.11.46:3000/967075207
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛土耳其VS立陶宛全场回放(周鹏)01:50
+http://113.98.11.46:3000/967074988
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛土耳其VS立陶宛全场回放(赛场原声)01:50
+http://113.98.11.46:3000/967075510
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛埃及VS刚果共和国赛场原声20:20
+http://113.98.11.46:3000/966984435
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛塞内加尔VS安哥拉2027年男篮世预赛非洲赛区第四窗口期宣传片：狂野大陆谁将突出重围？02:20
+http://113.98.11.46:3000/967007226
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛塞内加尔VS安哥拉全场回放(赛场原声)02:20
+http://115.57.164.193:1234/967117701
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛塞内加尔VS安哥拉赛场原声02:20
+http://47.120.5.28:1234/966984773
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛塞尔维亚VS冰岛全场回放(孔德昕)01:50
+http://113.98.11.46:3000/967075139
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛塞尔维亚VS冰岛全场回放(赛场原声)01:50
+http://113.98.11.46:3000/967075662
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛安哥拉VS科特迪瓦赛场原声23:20
+http://113.98.11.46:3000/966984459
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛尼日利亚VS佛得角赛场原声19:50
+http://113.98.11.46:3000/966984412
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛拉脱维亚VS以色列赛场原声23:50
+http://113.98.11.46:3000/966984294
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛斯洛文尼亚VS匈牙利赛场原声01:50
+http://113.98.11.46:3000/966984613
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛新西兰VS叙利亚赛场原声13:50
+http://113.98.11.46:3000/966984505
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛日本VS卡塔尔殳海18:00
+http://113.98.11.46:3000/966984596
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛日本VS卡塔尔赛场原声18:00
+http://113.98.11.46:3000/966984609
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛波兰VS德国赛场原声20:35
+http://113.98.11.46:3000/966984235
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛波兰VS德国邵化谦20:35
+http://113.98.11.46:3000/966984239
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛波黑VS意大利全场回放(赛场原声)01:50
+http://113.98.11.46:3000/967074809
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛澳大利亚VS约旦赛场原声16:50
+http://113.98.11.46:3000/966984517
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛爱沙尼亚VS芬兰赛场原声23:50
+http://113.98.11.46:3000/966984299
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛瑞典VS法国季孟年23:20
+http://113.98.11.46:3000/966984257
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛瑞典VS法国赛场原声23:20
+http://113.98.11.46:3000/966984249
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛科特迪瓦VS埃及全场回放(赛场原声)20:20
+http://113.98.11.46:3000/967101244
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛突尼斯VS南苏丹赛场原声01:50
+http://113.98.11.46:3000/966984476
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛立陶宛VS波黑赛场原声23:20
+http://113.98.11.46:3000/966984349
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛荷兰VS克罗地亚赛场原声20:20
+http://113.98.11.46:3000/966984217
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛菲律宾VS伊朗李天宇19:50
+http://113.98.11.46:3000/966984531
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛菲律宾VS伊朗赛场原声19:50
+http://113.98.11.46:3000/966984535
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛西班牙VS葡萄牙全场回放(吴博文)02:50
+http://113.98.11.46:3000/967075081
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛西班牙VS葡萄牙全场回放(赛场原声)02:50
+http://113.98.11.46:3000/967075187
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛韩国VS沙特阿拉伯盛哲17:50
+http://113.98.11.46:3000/966984550
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛韩国VS沙特阿拉伯赛场原声17:50
+http://113.98.11.46:3000/966984563
+#EXTINF:-1 group-title="🏈体育赛事🏆️",男篮世预赛马里VS塞内加尔赛场原声02:20
+http://113.98.11.46:3000/966984490
+#EXTINF:-1 group-title="🏈体育赛事🏆️",粤港澳大湾区滑雪公开赛鹏城之巅·2026粤港澳大湾区滑雪公开赛解说09:00
+http://113.98.11.46:3000/966837894
+#EXTINF:-1 group-title="🏈体育赛事🏆️",粤超东莞VS阳江全场回放20:00
+http://113.98.11.46:3000/967104110
+#EXTINF:-1 group-title="🏈体育赛事🏆️",粤超佛山VS揭阳全场回放19:30
+http://113.98.11.46:3000/967101373
+#EXTINF:-1 group-title="🏈体育赛事🏆️",粤超肇庆VS汕尾全场回放19:30
+http://113.98.11.46:3000/967104761
+#EXTINF:-1 group-title="🏈体育赛事🏆️",粤远VS茂名全场回放19:30
+http://113.98.11.46:3000/967100758
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战10号球场23:00
+http://113.98.11.46:3000/967048273
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战11号球场23:00
+http://113.98.11.46:3000/967048301
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战12号球场23:00
+http://113.98.11.46:3000/967048312
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战13号球场23:00
+http://113.98.11.46:3000/967048359
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战15号球场23:00
+http://113.98.11.46:3000/967048439
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战17号球场23:00
+http://113.98.11.46:3000/967048199
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战5号球场23:00
+http://113.98.11.46:3000/967048227
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战6号球场23:00
+http://113.98.11.46:3000/967048244
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战7号球场23:00
+http://113.98.11.46:3000/967048253
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战国际信号23:00
+http://113.98.11.46:3000/967048106
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战大看台球场23:00
+http://113.98.11.46:3000/967048188
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战英文解说23:00
+http://113.98.11.46:3000/967048117
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战阿姆朗球场23:00
+http://113.98.11.46:3000/967048154
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛佩古拉、德约、大威接连出战阿瑟・阿什球场00:00
+http://113.98.11.46:3000/967048466
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛布云朝克特VS奇纳全场回放(邱超)00:00
+http://113.98.11.46:3000/967072095
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛布云朝克特VS奇纳全场回放00:00
+http://113.98.11.46:3000/967072568
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮10号球场23:00
+http://113.98.11.46:3000/967048908
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮11号球场23:00
+http://113.98.11.46:3000/967048928
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮12号球场23:00
+http://113.98.11.46:3000/967048947
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮13号球场23:00
+http://113.98.11.46:3000/967048966
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮15号球场23:00
+http://113.98.11.46:3000/967048972
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮17号球场23:00
+http://113.98.11.46:3000/967048602
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮5号球场23:00
+http://113.98.11.46:3000/967048786
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮6号球场23:00
+http://113.98.11.46:3000/967048818
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮7号球场23:00
+http://113.98.11.46:3000/967048839
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮9号球场23:00
+http://113.98.11.46:3000/967048880
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮国际信号23:00
+http://113.98.11.46:3000/967048491
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮大看台球场23:00
+http://113.98.11.46:3000/967048571
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮英文解说23:00
+http://113.98.11.46:3000/967048517
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮阿姆朗球场23:00
+http://113.98.11.46:3000/967048545
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛男女单打第一轮阿瑟・阿什球场23:30
+http://113.98.11.46:3000/967049001
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛精彩回顾：布云朝克特vs奇纳精彩回顾：2026美国网球公开赛资格赛回放：布云朝克特vs奇纳19:00
+http://113.98.11.46:3000/967098738
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛精彩回顾：郑钦文vs尤晓迪精彩回顾：2026美国网球公开赛资格赛回放：郑钦文vs尤晓迪0:00
+http://113.98.11.46:3000/967078702
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛精彩回顾：郑钦文vs布蕾尔精彩回顾：2026美国网球公开赛资格赛回放：郑钦文vs布蕾尔12:00
+http://113.98.11.46:3000/967080215
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛精彩回顾：郑钦文vs普里丹金娜精彩回顾：2026美国网球公开赛资格赛回放：郑钦文vs普里丹金娜14:00
+http://113.98.11.46:3000/967083959
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛精彩回顾：黄泽林vs拉约维奇精彩回顾：2026美国网球公开赛资格赛回放：黄泽林vs拉约维奇17:00
+http://113.98.11.46:3000/967089684
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛袁悦VS斯托亚纳【回放】袁悦1-2斯托亚纳(蔡凯臣)00:30
+http://113.98.11.46:3000/967075221
+#EXTINF:-1 group-title="🏈体育赛事🏆️",美国网球公开赛袁悦VS斯托亚纳【回放】袁悦1-2斯托亚纳(赛场原声)00:30
+http://113.98.11.46:3000/967075211
+#EXTINF:-1 group-title="🏈体育赛事🏆️",苏超常州队VS无锡队全场回放(官方解说)19:10
+http://113.98.11.46:3000/967099402
+#EXTINF:-1 group-title="🏈体育赛事🏆️",苏超扬州队VS宿迁队全场回放(官方解说)19:10
+http://113.98.11.46:3000/967100710
+#EXTINF:-1 group-title="🏈体育赛事🏆️",苏超淮安队VS连云港队全场回放19:10
+http://113.98.11.46:3000/967099016
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超伯恩茅斯VS埃弗顿全场回放(AI智慧观赛)21:55
+http://113.98.11.46:3000/967101124
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超伯恩茅斯VS埃弗顿全场回放(智能解说)21:55
+http://113.98.11.46:3000/967101212
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超伯恩茅斯VS埃弗顿全场回放(郭灿亮)21:55
+http://113.98.11.46:3000/967100888
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超切尔西VS布莱顿英文原声20:45
+http://113.98.11.46:3000/966998912
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超切尔西VS布莱顿赛场原声20:45
+http://113.98.11.46:3000/966998941
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超利兹联VS布伦特福德英文原声20:45
+http://113.98.11.46:3000/966998997
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超利兹联VS布伦特福德赛场原声20:45
+http://113.98.11.46:3000/966998978
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超利物浦VS诺丁汉森林全场回放(詹俊、张路、程思钦)19:15
+http://113.98.11.46:3000/967094808
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超利物浦VS诺丁汉森林全场回放(陈曦、何辉)19:15
+http://113.98.11.46:3000/967098403
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超托特纳姆热刺VS纽卡斯尔联全场回放(李子琪、徐阳、苏东)00:15
+http://113.98.11.46:3000/967109901
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超曼联VS伊普斯维奇4K赛场原声23:15
+http://113.98.11.46:3000/967033496
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超曼联VS伊普斯维奇英文原声23:15
+http://113.98.11.46:3000/966999397
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超曼联VS伊普斯维奇赛场原声23:15
+http://113.98.11.46:3000/966999393
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超桑德兰VS富勒姆英文原声20:45
+http://113.98.11.46:3000/966999064
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超桑德兰VS富勒姆赛场原声20:45
+http://113.98.11.46:3000/966999054
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超水晶宫VS曼城全场回放(涂远、鲁靖明、孙蕊)02:45
+http://113.98.11.46:3000/967075218
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超考文垂VS赫尔城全场回放(AI智慧观赛)21:55
+http://113.98.11.46:3000/967105066
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超考文垂VS赫尔城全场回放(智能解说)21:55
+http://113.98.11.46:3000/967103531
+#EXTINF:-1 group-title="🏈体育赛事🏆️",英超考文垂VS赫尔城全场回放(黄航)21:55
+http://113.98.11.46:3000/967101616
+#EXTINF:-1 group-title="🏈体育赛事🏆️",蒙超联赛包头队VS通辽队赛场原声19:00
+http://113.98.11.46:3000/966979473
+#EXTINF:-1 group-title="🏈体育赛事🏆️",蒙超联赛鄂尔多斯队VS赤峰队全场回放19:30
+http://113.98.11.46:3000/967103403
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲塞尔塔VS毕尔巴鄂竞技兰子非03:15
+http://113.98.11.46:3000/966999072
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲塞尔塔VS毕尔巴鄂竞技赛场原声03:15
+http://113.98.11.46:3000/966999080
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲塞维利亚VS马德里竞技全场回放(张昊泽、王宇)03:15
+http://115.57.164.193:1234/967116186
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲塞维利亚VS马德里竞技张昊泽王宇03:15
+http://113.98.11.46:3000/966998948
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲塞维利亚VS马德里竞技赛场原声03:15
+http://113.98.11.46:3000/966998968
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲拉科鲁尼亚VS瓦伦西亚孙雨轩01:15
+http://113.98.11.46:3000/966999007
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲拉科鲁尼亚VS瓦伦西亚赛场原声01:15
+http://113.98.11.46:3000/966999027
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲桑坦德竞技VS埃尔切全场回放(周楚雄)00:45
+http://113.98.11.46:3000/967071999
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲皇家社会VS西班牙人全场回放(张天翼)00:45
+http://113.98.11.46:3000/967111851
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲皇家马德里VS马拉加林梦鸽孙雷22:45
+http://113.98.11.46:3000/966998980
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲皇家马德里VS马拉加赛场原声22:45
+http://113.98.11.46:3000/966998999
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲莱万特VS皇家贝蒂斯全场回放(李霄)22:45
+http://113.98.11.46:3000/967107032
+#EXTINF:-1 group-title="🏈体育赛事🏆️",西甲阿拉维斯VS比利亚雷亚尔全场回放(洪宇青)03:15
+http://113.98.11.46:3000/967075062
 #EXTINF:-1 group-title="🏈体育赛事🏆️",视频_8M1080_咪视通-1
 http://101.43.145.141:12002/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="🏈体育赛事🏆️",视频_8M1080_咪视通-10
@@ -1383,8 +1875,62 @@ http://101.43.145.141:12002/itv/3000000001000010129.m3u8?cdn=FifastbLive
 http://101.43.145.141:12002/itv/3000000001000010948.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="🏈体育赛事🏆️",视频_8M1080_咪视通-9
 http://101.43.145.141:12002/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="🏈体育赛事🏆️",赣超九江队VS抚州队全场回放20:00
+http://113.98.11.46:3000/967100549
+#EXTINF:-1 group-title="🏈体育赛事🏆️",赣超南昌队VS赣州队全场回放20:00
+http://113.98.11.46:3000/967102155
+#EXTINF:-1 group-title="🏈体育赛事🏆️",赣超宜春队VS萍乡队全场回放20:00
+http://113.98.11.46:3000/967101012
+#EXTINF:-1 group-title="🏈体育赛事🏆️",赣超景德镇队VS上饶队全场回放20:00
+http://113.98.11.46:3000/967101764
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档12进8及B档决赛【回放】成都和众18:20江苏香江猛虎18:55
+http://113.98.11.46:3000/967087705
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档半决赛及决赛李嘉伟18:55
+http://113.98.11.46:3000/967028384
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档四分之一决赛吴博文13:55
+http://113.98.11.46:3000/967028368
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】上海久事21:12北京控股12:55
+http://113.98.11.46:3000/967083245
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】上海横沙誉民21:14重庆瀚动12:55
+http://113.98.11.46:3000/967082416
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】北京控股20:16山东12:55
+http://113.98.11.46:3000/967079708
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】南昌凯锆商贸18:21贵州贵阳丝恋12:55
+http://113.98.11.46:3000/967084562
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】宁波海曙捷英22:14深圳龙华启航12:55
+http://113.98.11.46:3000/967083772
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】山东13:21上海久事12:55
+http://113.98.11.46:3000/967081059
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】广东悦跑豹猫17:21南昌凯锆商贸12:55
+http://113.98.11.46:3000/967082180
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】无锡文旅惠汕14:21宁波海曙捷英12:55
+http://113.98.11.46:3000/967081785
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】浙江普徕17:19上海横沙誉民12:55
+http://113.98.11.46:3000/967080763
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】深圳龙华启航18:17无锡文旅惠汕12:55
+http://113.98.11.46:3000/967080094
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】贵州贵阳丝恋17:15广东悦跑豹猫12:55
+http://113.98.11.46:3000/967080378
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛【回放】重庆瀚动12:22浙江普徕12:55
+http://113.98.11.46:3000/967079267
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛全场回放(周赫、蔡凯臣)12:55
+http://113.98.11.46:3000/967085133
+#EXTINF:-1 group-title="🏈体育赛事🏆️",超三联赛超三联赛仁怀大区赛A档小组赛全场回放(赛场原声)12:55
+http://113.98.11.46:3000/967088942
 #EXTINF:-1 group-title="🏈体育赛事🏆️",足球联赛
 http://live-cmvideo.cmread.com:80/migu/lunbo/wudaliansai/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=37390fe8508db105ef85c897db9015f6
+#EXTINF:-1 group-title="🏈体育赛事🏆️",铁人三项系列赛2026年威海铁人三项世界锦标赛“好运角杯”2026年威海铁人三项世界锦标赛全场回放09:00
+http://113.98.11.46:3000/967080923
+#EXTINF:-1 group-title="🏈体育赛事🏆️",马拉松系列赛2026兰州新区马拉松清流播出07:15
+http://113.98.11.46:3000/967076512
+#EXTINF:-1 group-title="🏈体育赛事🏆️",齐鲁超赛东营队VS临沂队赛场原声19:30
+http://113.98.11.46:3000/966839311
+#EXTINF:-1 group-title="🏈体育赛事🏆️",齐鲁超赛威海文旅集团队VS济宁港航全场回放19:30
+http://113.98.11.46:3000/967100035
+#EXTINF:-1 group-title="🏈体育赛事🏆️",齐鲁超赛淄博齐稷锐思达VS济南队全场回放19:30
+http://113.98.11.46:3000/967100350
+#EXTINF:-1 group-title="🏈体育赛事🏆️",齐鲁超赛聊城传奇农商行VS潍坊队全场回放19:30
+http://113.98.11.46:3000/967099119
 #EXTINF:-1 group-title="🏈咪咕赛事🏆️",咪视通-1
 http://lt.hxtre.com:35455/itv/3000000001000005308.m3u8$肥羊lt.hxtre?cdn=FifastbLive
 #EXTINF:-1 group-title="🏈咪咕赛事🏆️",咪视通-2
@@ -2960,7 +3506,7 @@ https://cc05.tv12.xyz/163.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",深圳卫视4K
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 group-title="💓4K(Auto)",广东卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001540/index.m3u8?streamid=33aeafbb59f2bcb1877c3a8229c0135b&streamkey=0AGMO6LiBIxyH4UUBGZSecN0VLptakvTRcCBdKPsgZ5LvjIJtZ6lVmakn2xtYKNlvaZmadVnIW0Ur7nROOy5lbmQHqDT5XsDIAlz3aket1LK13kwaGDOHJf9U7zQSS6b&token=1775753804-a378e51446e90f3d-0-831fa09b2b3eafcffbd9550a9e04cf4d
+http://101.35.240.114:88/live.php?id=广东卫视4K
 #EXTINF:-1 group-title="💓4K(Auto)",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",北京4K
@@ -2972,7 +3518,7 @@ http://223.166.74.79:10030/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",北京体育休闲-4K-HLG
 http://223.166.74.79:10030/bptv/10000100000000050000000004270524.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",苏州4K
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",河南4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 #EXTINF:-1 group-title="💓4K(Auto)",河北4K
@@ -2992,25 +3538,25 @@ http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="💓4K(Auto)",cctv4k
 http://101.43.145.141:12002/gaoma/cctv4k.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南都市
-https://stream1.freetv.fun/hu-nan-du-shi-6.m3u8
+https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南经视
-http://110.53.218.182:9902/tsfile/live/1004_1.m3u8
+https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南电视剧
 https://stream1.freetv.fun/hu-nan-dian-shi-ju-10.ctv
 #EXTINF:-1 group-title="☘️湖南频道",湖南电影
-https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
+http://php.jdshipin.com:8880/iptv.php
 #EXTINF:-1 group-title="☘️湖南频道",湖南爱晚
-http://php.jdshipin.com:8880/iptv.php?id=hngg
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7644&tk=23a9aca1f79f
 #EXTINF:-1 group-title="☘️湖南频道",湖南教育
-https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
+https://stream1.freetv.fun/hu-nan-jiao-yu-2.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南娱乐
-https://stream1.freetv.fun/hu-nan-yu-le-2.m3u8
+https://stream1.freetv.fun/hu-nan-yu-le-11.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南国际
 https://stream1.freetv.fun/hu-nan-guo-ji-10.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南公共
-http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
+https://stream1.freetv.fun/hu-nan-gong-gong-2.ctv
 #EXTINF:-1 group-title="☘️湖南频道",金鹰纪实
-http://183.11.239.36:808/hls/171/index.m3u8
+https://stream1.freetv.fun/jin-ying-ji-shi-16.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南金鹰纪实
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6268&tk=23a9aca1f79f
 #EXTINF:-1 group-title="☘️湖南频道",长沙新闻综合
@@ -3020,23 +3566,23 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSZFMPP360.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",衡阳新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",湖北综合
-https://stream1.freetv.fun/hu-bei-zong-he-10.m3u8
+https://stream1.freetv.fun/hu-bei-zong-he-11.ctv
 #EXTINF:-1  tvg-name="湖北经视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北经视.png"  group-title="☘️湖北频道",湖北经视
-https://stream1.freetv.fun/hu-bei-jing-shi-9.m3u8
+https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",湖北生活
-https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+https://stream1.freetv.fun/hu-bei-sheng-huo-3.ctv
 #EXTINF:-1 group-title="☘️湖北频道",湖北教育
-https://t.freetv.fun/live/hu-bei-jiao-yu.m3u8
+https://stream1.freetv.fun/hu-bei-jiao-yu-10.ctv
 #EXTINF:-1 group-title="☘️湖北频道",湖北影视
-https://stream1.freetv.fun/hu-bei-ying-shi-2.m3u8
+https://stream1.freetv.fun/hu-bei-ying-shi-10.m3u8
 #EXTINF:-1  tvg-name="湖北公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北公共.png"  group-title="☘️湖北频道",湖北公共
-https://stream1.freetv.fun/hu-bei-gong-gong-5.m3u8
+https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
 #EXTINF:-1  tvg-name="湖北垄上" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北垄上.png"  group-title="☘️湖北频道",湖北垄上
-https://stream1.freetv.fun/hu-bei-long-shang-1.ctv
+http://113.57.20.158:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉一台新闻综合
-https://ls.qingting.fm/live/20198/64k.m3u8
+https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-7.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉二台电视剧
-https://stream1.freetv.fun/wu-yi-2dian-shi-ju-1.m3u8
+https://stream1.freetv.fun/wu-yi-er-tai-dian-shi-ju-1.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉四台经济
 https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉五台文体
@@ -3044,61 +3590,61 @@ http://stream.appwuhan.com/5tzb/sd/live.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉六台外语
 http://stream.appwuhan.com/6tzb/sd/live.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉教育
-https://stream1.freetv.fun/wu-yi-jiao-yu-4.m3u8
+https://stream1.freetv.fun/wu-yi-jiao-yu-18.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 group-title="☘️湖北频道",十堰新闻
-https://stream1.freetv.fun/shi-yan-xin-wen-2.m3u8
+https://stream1.freetv.fun/shi-yan-xin-wen-1.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",荆门新闻综合
-https://stream1.freetv.fun/jing-men-xin-wen-zong-he-5.m3u8
+https://stream1.freetv.fun/jing-men-xin-wen-zong-he-4.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",荆门科教文旅
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="☘️湖北频道",荆门新闻
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 group-title="☘️广东频道",江门侨乡生活
-http://125.89.163.44:8888/udp/239.77.0.202:5146
+http://120.77.205.62:8087/rtp/239.77.0.202:5146
 #EXTINF:-1 group-title="☘️广东频道",江门综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7006&tk=a0c4f6cfaba3
+https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
 #EXTINF:-1 group-title="☘️广东频道",汕头综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8978&tk=a0c4f6cfaba3
+https://stream1.freetv.fun/shan-tou-zong-he-10.ctv
 #EXTINF:-1 group-title="☘️广东频道",汕头经济
-https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
+https://stream1.freetv.fun/shan-tou-jing-ji-3.ctv
 #EXTINF:-1 group-title="☘️广东频道",汕头文旅
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5771&tk=a0c4f6cfaba3
 #EXTINF:-1 group-title="☘️广东频道",广东新闻
-http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
+http://223.111.150.99:6673/tv/mg4.php?id=广东新闻
 #EXTINF:-1 group-title="☘️广东频道",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-22.ctv
+https://stream1.freetv.fun/yan-dong-min-sheng-29.ctv
 #EXTINF:-1 group-title="☘️广东频道",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-30.m3u8
+http://223.83.177.142:1234/639731952
 #EXTINF:-1 group-title="☘️广东频道",广州影视
-https://stream1.freetv.fun/yan-zhou-ying-shi-28.ctv
+https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 #EXTINF:-1 group-title="☘️广东频道",广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+http://119.32.12.17:2901/udp/224.1.100.38:11111
 #EXTINF:-1 group-title="☘️广东频道",广州竞赛
-https://stream1.freetv.fun/yan-zhou-jing-sai-37.m3u8
+https://stream1.freetv.fun/yan-zhou-jing-sai-12.m3u8
 #EXTINF:-1 group-title="☘️广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-8.ctv
 #EXTINF:-1 group-title="☘️广东频道",汕尾新闻综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8439&tk=a0c4f6cfaba3
+http://58.254.14.61:808/hls/504/index.m3u8
 #EXTINF:-1 group-title="☘️广东频道",汕尾文化生活
-http://58.254.14.61:808/hls/131/index.m3u8
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2032&tk=a0c4f6cfaba3
 #EXTINF:-1 group-title="☘️广东频道",茂名综合
-http://120.77.205.62:8087/rtp/239.77.0.204:5146
+http://125.89.163.44:8888/udp/239.77.0.206:5146
 #EXTINF:-1 group-title="☘️广东频道",茂名公共
 http://125.89.163.44:8888/udp/239.77.0.207:5146
 #EXTINF:-1 group-title="☘️广东频道",河源公共
-http://120.234.5.28:6000/udp/239.21.0.49:3536
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="☘️广东频道",河源综合
-http://120.234.5.28:6000/udp/239.21.0.48:3532
+http://125.89.163.44:8888/udp/239.253.43.213:5146
 #EXTINF:-1 group-title="☘️广东频道",深圳东部
 http://125.89.163.44:8888/udp/239.77.1.224:5146
 #EXTINF:-1 group-title="☘️广东频道",深圳少儿
-https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
+https://stream1.freetv.fun/shen-zhen-shao-er-3.ctv
 #EXTINF:-1 group-title="☘️广东频道",深圳移动电视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2250&tk=a0c4f6cfaba3
+http://125.89.163.44:8888/udp/239.77.1.175:5146
 #EXTINF:-1 group-title="☘️广东频道",深圳财经生活
 https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-4.ctv
 #EXTINF:-1 group-title="☘️广东频道",丰顺综合
@@ -3106,43 +3652,43 @@ http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 #EXTINF:-1 group-title="☘️广东频道",云浮综合
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6868&tk=a0c4f6cfaba3
 #EXTINF:-1 group-title="☘️广东频道",佛山公共
-https://stream1.freetv.fun/fo-shan-gong-gong-25.ctv
+https://stream1.freetv.fun/fo-shan-gong-gong-26.ctv
 #EXTINF:-1 group-title="☘️广东频道",佛山影视
 https://stream1.freetv.fun/fo-shan-ying-shi-22.ctv
 #EXTINF:-1 group-title="☘️广东频道",佛山综合
-https://stream1.freetv.fun/fo-shan-zong-he-16.ctv
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3169&tk=a0c4f6cfaba3
 #EXTINF:-1 group-title="☘️广东频道",南国都市
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 group-title="☘️广东频道",广州法治
-http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="☘️广东频道",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="☘️广东频道",广州法治
+http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 group-title="☘️浙江频道",浙江钱江
-http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
+http://api3.52tb.xyz/info?id=436&token=20230226bgyszp
 #EXTINF:-1 group-title="☘️浙江频道",浙江钱江都市
-https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
+https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江生活
-http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
 #EXTINF:-1 group-title="☘️浙江频道",浙江经济生活
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江教育
-http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 #EXTINF:-1 group-title="☘️浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+https://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+https://stream1.freetv.fun/zhe-jiang-xin-wen-8.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-2.m3u8
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",杭州综合
-http://120.55.49.231:3095/rtp/233.50.201.173:5140
+http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
 #EXTINF:-1 group-title="☘️浙江频道",杭州明珠
-https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
+https://stream1.freetv.fun/hang-zhou-ming-zhu-2.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",杭州西湖明珠
 http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
 #EXTINF:-1 group-title="☘️浙江频道",杭州生活
-https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
+http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
 #EXTINF:-1 group-title="☘️浙江频道",杭州影视
-http://www.flyskyman.cn:4022/rtp/233.50.201.176:5140
+http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
 #EXTINF:-1 group-title="☘️浙江频道",杭州青少
 http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
 #EXTINF:-1 group-title="☘️浙江频道",杭州导视
@@ -3166,13 +3712,13 @@ http://www.flyskyman.cn:4022/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="☘️浙江频道",浙江教科
 http://api3.52tb.xyz/info?id=432&token=20230226bgyszp
 #EXTINF:-1 group-title="☘️浙江频道",浙江经济
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江国际
-https://stream1.freetv.fun/zhe-jiang-guo-ji-2.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",嘉兴新闻综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
 #EXTINF:-1 group-title="☘️浙江频道",嘉兴公共
 http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 #EXTINF:-1 group-title="☘️浙江频道",嘉兴文化影视
@@ -3180,7 +3726,7 @@ http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60
 #EXTINF:-1 group-title="☘️浙江频道",丽水新闻
 http://120.55.49.231:3095/rtp/233.50.201.162:5140
 #EXTINF:-1 group-title="☘️浙江频道",湖州公共
-https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=
 #EXTINF:-1 group-title="☘️浙江频道",湖州新闻综合
 https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 group-title="☘️浙江频道",湖州文化娱乐
@@ -3194,23 +3740,21 @@ http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江留学
 https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江民生休闲
-https://stream1.freetv.fun/zhe-jiang-min-sheng-3.m3u8
+https://stream1.freetv.fun/zhe-jiang-min-sheng-xiu-xian-5.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江数码时代
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
-#EXTINF:-1 group-title="☘️浙江频道",浙江教科影院
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",浙江教科影视
-http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江公共新闻
-https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
+https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
 #EXTINF:-1 group-title="☘️浙江频道",浙江青田
 http://play-sh13.quklive.com/live/1692755062081192.m3u8?auth_key=2028414252-b15176e05a684b589d12314dfabf6225-0-d175afe86fbea31e2eb167a6dd06cd4f
 #EXTINF:-1 group-title="☘️浙江频道",浙江遂昌
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 #EXTINF:-1 group-title="☘️浙江频道",诸暨新闻综合
 https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",龙游生活娱乐
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",龙游新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",龙泉新闻综合
@@ -3220,61 +3764,61 @@ http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3
 #EXTINF:-1 group-title="☘️浙江频道",鄞州一套
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",遂昌综合
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8zzhed
 #EXTINF:-1 group-title="☘️浙江频道",象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",衢江新闻综合
-http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 group-title="☘️浙江频道",苍南新闻综合
-https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
+https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",缙云综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?fbl=
 #EXTINF:-1 group-title="☘️浙江频道",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+https://stream1.freetv.fun/shao-xing-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",绍兴文化影院
-https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-3.m3u8
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",绍兴文化影视
-https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
+https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+https://stream1.freetv.fun/shao-xing-gong-gong-8.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",湖州公共民生
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 #EXTINF:-1 group-title="☘️浙江频道",海盐新闻
 http://lived.dmqhyadmin.com/ds/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",海宁新闻综合
-https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 #EXTINF:-1 group-title="☘️浙江频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",永嘉新闻综合
-https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-4.m3u8
+https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed\r\n
 #EXTINF:-1 group-title="☘️浙江频道",松阳综合
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 #EXTINF:-1 group-title="☘️浙江频道",普陀新闻综合
-http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",新昌生活
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",新昌新闻综合
-https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8
+https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 #EXTINF:-1 group-title="☘️浙江频道",文成综合
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",文成新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",开化新闻综合
-https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
+https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 #EXTINF:-1 group-title="☘️浙江频道",开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 #EXTINF:-1 group-title="☘️浙江频道",庆元综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",庆元新闻综合
@@ -3282,37 +3826,37 @@ http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 #EXTINF:-1 group-title="☘️浙江频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",平湖新闻综合
-http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef
+https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",嵊泗综合
-https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-2.m3u8
+https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-2.ctv
 #EXTINF:-1 group-title="☘️浙江频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",兰溪新闻综合
-https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8
+https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",余杭综合
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",余杭未来E
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",余姚综合
-https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="☘️浙江频道",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 group-title="☘️浙江频道",余姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
 #EXTINF:-1 group-title="☘️浙江频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",义乌新闻综合
 https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 #EXTINF:-1 group-title="☘️浙江频道",中国蓝新闻
-http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
 #EXTINF:-1 group-title="☘️浙江频道",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 group-title="☘️浙江频道",上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
+https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
 #EXTINF:-1 group-title="☘️浙江频道",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江影视
@@ -3324,7 +3868,7 @@ https://stream1.freetv.fun/qian-jiang-du-shi-2.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",YMG未来
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 #EXTINF:-1 group-title="☘️浙江频道",上虞文化
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
+https://stream1.freetv.fun/shang-yu-wen-hua-1.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",上虞综合
 https://stream1.freetv.fun/shang-yu-zong-he-1.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",云和新闻
@@ -3350,69 +3894,67 @@ http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",普陀新闻
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",绍兴文化
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?
+https://stream1.freetv.fun/shao-xing-wen-hua-1.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",绍兴新闻
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed?
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",苍南新闻
-http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",萧山新闻
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",衢江新闻
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed?
-#EXTINF:-1 group-title="☘️浙江频道",诸暨新闻
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",象山新闻
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",青田电视
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="☘️浙江频道",龙泉新闻
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="☘️浙江频道",龙游新闻
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",金华东阳综合
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",台州温岭综合
-http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",丽水云和综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",文成二套
-http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",杭州萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",杭州余杭平安
-http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",衢州衢江综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",宁波宁海新闻
 http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",金华兰溪综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",杭州萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",杭州余杭平安
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",台州温岭民生
 http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",金华东阳综合
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",衢州开化综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",丽水云和综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",台州温岭综合
+http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 #EXTINF:-1 group-title="☘️山东频道",山东少儿
-http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
+http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
+https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
 #EXTINF:-1 group-title="☘️山东频道",山东教育
-https://live.chinacert.cftest5.cn/cnmg/live/609154353
+http://222.213.105.65:7788/609154353
 #EXTINF:-1 group-title="☘️山东频道",山东农科
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 #EXTINF:-1 group-title="☘️山东频道",山东齐鲁
-http://123.132.233.194:352/tsfile/live/1019_1.m3u8
+http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 #EXTINF:-1 group-title="☘️山东频道",山东生活
-http://58.57.40.22:9901/tsfile/live/1018_1.m3u8
+http://api3.52tb.xyz/info?id=527&token=20221127jxwhhemby
 #EXTINF:-1 group-title="☘️山东频道",山东体育
-http://123.132.233.194:352/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/shan-dong-ti-yu-22.m3u8
 #EXTINF:-1 group-title="☘️山东频道",山东文旅
-http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.209.125.254:352/tsfile/live/1004_1.m3u8?ace
 #EXTINF:-1 group-title="☘️山东频道",山东综艺
-http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济南综合
-https://stream1.freetv.fun/ji-nan-zong-he-1.m3u8
+https://stream1.freetv.fun/ji-nan-zong-he-2.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济南新闻综合
 https://stream1.freetv.fun/ji-nan-xin-wen-zong-he-7.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济南教育
@@ -3422,21 +3964,21 @@ http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济宁公共
-http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
+http://111.14.181.15:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济宁图文
 http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",济宁教育
-http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济宁综合
-http://111.14.181.15:9901/tsfile/live/1007_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",中华美食
-http://61.133.118.228:5001/yy/1354930954
+http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
 #EXTINF:-1 group-title="☘️山东频道",枣庄公共
 http://stream.zztvzd.com/3/sd/live.m3u8
 #EXTINF:-1 group-title="☘️山东频道",枣庄教育
-http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+http://stream.zztvzd.com/2/sd/live.m3u8
 #EXTINF:-1 group-title="☘️山东频道",枣庄新闻综合
-http://stream.zztvzd.com/1/sd/live.m3u8?shandd
+http://stream.zztvzd.com/1/sd/live.m3u8
 #EXTINF:-1 group-title="☘️山东频道",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 #EXTINF:-1 group-title="☘️山东频道",烟台新闻综合
@@ -3448,61 +3990,61 @@ http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",菏泽新闻综合
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",菏泽经济生活
-http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1  tvg-name="新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png"  group-title="上海频道",新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
+http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 #EXTINF:-1  tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png"  group-title="上海频道",东方影视
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6090&tk=b53028476470
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1407&tk=e503191f8e20
 #EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png"  group-title="上海频道",上海都市
-http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
+https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 #EXTINF:-1  tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png"  group-title="上海频道",第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-3.m3u8
+http://47.119.24.76:59093/608780988
 #EXTINF:-1 group-title="上海频道",东方财经
-http://61.133.118.228:5001/douyu/9548279
+http://124.248.69.76:26781/douyu/9548279
 #EXTINF:-1 group-title="上海频道",上海纪实
-http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+http://wouu.net:9977/udp/239.93.1.137:5140
 #EXTINF:-1  tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png"  group-title="上海频道",上海外语
-http://t.061899.xyz/tl/tl.php?id=shics
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shics
 #EXTINF:-1 group-title="上海频道",生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
+https://stream1.freetv.fun/sheng-huo-shi-shang-25.ctv
 #EXTINF:-1 group-title="上海频道",上海点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1  tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品体育.png"  group-title="体育频道",精品体育
-http://dl.wifi942.com:66/jsyd/jsyd.php?id=GITV-JS-65
+https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 #EXTINF:-1  tvg-name="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png"  group-title="体育频道",睛彩竞技
-http://www.douzhicloud.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+http://xiaoya.crccxw.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png"  group-title="体育频道",睛彩篮球
-http://home.kuaidi521.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+http://lt.hxtre.com:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="体育频道",睛彩羽毛球
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7332&tk=e640d0a1bf70
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1257&tk=f6cc1e0a0e1a
 #EXTINF:-1 group-title="体育频道",超级体育
-
+http://feiyang.ak47s.top:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱体育.png"  group-title="体育频道",iHOT爱体育
 http://146.56.165.66:7788/TVOD/2000000004000000060/hnbblive/index.m3u8
 #EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png"  group-title="体育频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
+https://migu.188766.xyz/?migutoken=ed5a02a3b87f3dcc808d4b733daf5cf9&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 #EXTINF:-1 group-title="体育频道",劲爆体育
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9784&tk=b53028476470
+http://146.56.165.66:7788/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8
+http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="体育频道",纬来体育
-http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=纬来体育
 #EXTINF:-1 group-title="体育频道",辽宁体育
 https://cc06.tv12.xyz/79.m3u8
 #EXTINF:-1 group-title="体育频道",风云足球
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5842&tk=a0c4f6cfaba3
 #EXTINF:-1 group-title="体育频道",魅力足球
-http://36.105.100.208:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d522c1338ee1ffd14316eea89e461d4e31e29395a265a9f1ec26b947fb0e7dc16296db47ae3bfea73caaee6901d17bfede63775878c0ab44c872939ba5b53baf
 #EXTINF:-1 group-title="体育频道",ELEVEN体育1
 https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
 #EXTINF:-1 group-title="体育频道",ELEVEN体育2
 https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 #EXTINF:-1 group-title="体育频道",央视台球
-http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="体育频道",天元围棋
-http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+https://live.lizanyang.top/tv/书画.png" grouptitle="数字综合"
 #EXTINF:-1 group-title="体育频道",快乐垂钓
-http://e1.woc.iiiya.cn:8888/rtp/239.61.3.8:9566
+https://migu.188766.xyz/?migutoken=f4d62cd1f8775b1b837f4232f1051f36&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 group-title="体育频道",J_SPORTS_1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="体育频道",J_SPORTS_2
@@ -3518,4 +4060,4 @@ https://stream1.freetv.fun/dazn-sport-2-1.ctv
 #EXTINF:-1 group-title="体育频道",nba tv
 https://stream1.freetv.fun/nba-tv-7.m3u8
 #EXTINF:-1 group-title="体育频道",skysports
-https://stream1.freetv.fun/skysports-15.ctv
+https://stream1.freetv.fun/skysports-17.ctv
