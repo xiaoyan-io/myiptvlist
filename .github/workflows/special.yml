@@ -9,6 +9,10 @@ on:
         description: 'Daily Job(special)'
         required: true
         default: 'production'
+      evidence_no_change:
+        description: 'TEMP AAAV1-PROD-002 no-change closure proof'
+        required: false
+        default: 'false'
 
 jobs:
   run_job:
@@ -36,6 +40,7 @@ jobs:
         python -m pip install --upgrade pip
         
     - name: Run Python script
+      if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.evidence_no_change != 'true' }}
       run: python assets/special/special.py
           
     - name: Commit changes
